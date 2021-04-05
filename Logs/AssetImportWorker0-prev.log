@@ -1,0 +1,118 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/adityachawla/Desktop/Virtual-Myntra-main final
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58737
+Successfully changed project path to: /Users/adityachawla/Desktop/Virtual-Myntra-main final
+/Users/adityachawla/Desktop/Virtual-Myntra-main final
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 165.70 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/adityachawla/Desktop/Virtual-Myntra-main final/Assets
+GfxDevice: creating device client; threaded=0
+2021-04-05 23:12:06.466 Unity[3040:7262256] Color LCD preferred device: Intel(R) Iris(TM) Graphics 6000 (low power)
+2021-04-05 23:12:06.467 Unity[3040:7262256] Metal devices available: 1
+2021-04-05 23:12:06.467 Unity[3040:7262256] 0: Intel(R) Iris(TM) Graphics 6000 (low power)
+2021-04-05 23:12:06.482 Unity[3040:7262256] Using device Intel(R) Iris(TM) Graphics 6000 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Graphics 6000
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56040
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.2f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.003068 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 99.24 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.581 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002817 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.595 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.07 seconds
+Refreshing native plugins compatible for Editor in 1.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1737 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 159.8 MB.
+System memory in use after: 159.4 MB.
+
+Unloading 80 unused Assets to reduce memory usage. Loaded Objects now: 2178.
+Total: 13.266481 ms (FindLiveObjects: 1.673098 ms CreateObjectMapping: 0.495738 ms MarkObjects: 9.539484 ms  DeleteObjects: 1.553245 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Standard Assets/Characters/ThirdPersonCharacter/Materials
+  artifactKey: Guid(f93df448921b46c45999c77f43856ba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Characters/ThirdPersonCharacter/Materials using Guid(f93df448921b46c45999c77f43856ba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce02f3dc24767b3cebf50d17a2d45c5d') in 0.033083 seconds
+  Import took 0.054134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002537 seconds.
+  path: Assets/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanGrey.mat
+  artifactKey: Guid(621e901dcf5ebaf46bce29d18f67194c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanGrey.mat using Guid(621e901dcf5ebaf46bce29d18f67194c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47c4130ff5077ec78f724f45ca6a94d4') in 6.735902 seconds
+  Import took 6.755837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanWhite.mat
+  artifactKey: Guid(f62b52b2d4b721742a0bc5c6b4db468d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanWhite.mat using Guid(f62b52b2d4b721742a0bc5c6b4db468d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58ec6a698505b16e7faa0c4f1be0a3ab') in 0.141252 seconds
+  Import took 0.163912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.326584 seconds.
+  path: Assets/Standard Assets/Characters/ThirdPersonCharacter/Models/Ethan.fbx
+  artifactKey: Guid(b235179bd2a63d1468dd430670338c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Characters/ThirdPersonCharacter/Models/Ethan.fbx using Guid(b235179bd2a63d1468dd430670338c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5603491c4c3357990c8ea34aee0b5fb') in 1.331290 seconds
+  Import took 1.348593 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 147.2 MB.
+System memory in use after: 146.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2222.
+Total: 3.910506 ms (FindLiveObjects: 0.275725 ms CreateObjectMapping: 0.084945 ms MarkObjects: 2.812474 ms  DeleteObjects: 0.735037 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
