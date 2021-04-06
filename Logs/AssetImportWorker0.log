@@ -237,3 +237,267 @@ Received Import Request.
 Start importing Assets/Clothes/New Material 2.mat using Guid(1bba267ceaf004ec992a8248fabaf527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec90820fd1cc3f3c10eef5c62aaca6c2') in 0.055608 seconds
   Import took 0.063778 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 326.008019 seconds.
+  path: Assets/HDRPFurniturePack/Dining_Chair/Textures/New Material.mat
+  artifactKey: Guid(bcdde261ef84b4bc0ad26ecee70f0996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPFurniturePack/Dining_Chair/Textures/New Material.mat using Guid(bcdde261ef84b4bc0ad26ecee70f0996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b85abdabf06a1b2b26f294412d2713b0') in 0.036613 seconds
+  Import took 0.057162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 814.602111 seconds.
+  path: Assets/characters/Marina_1276_Textures
+  artifactKey: Guid(076e81af7cc184cd58a552e395ed2394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/characters/Marina_1276_Textures using Guid(076e81af7cc184cd58a552e395ed2394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a16248bd1529f6d0e142c880975f2d8') in 0.008367 seconds
+  Import took 0.053401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.065757 seconds.
+  path: Assets/characters/Marina_1276_Textures/Marina_1276_DIFF.jpg
+  artifactKey: Guid(b0fca60da29c14cecadea3ee1183f082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/characters/Marina_1276_Textures/Marina_1276_DIFF.jpg using Guid(b0fca60da29c14cecadea3ee1183f082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12c1f11fccfbb6f8045e030a7d6c1138') in 0.066968 seconds
+  Import took 0.076532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/characters/Marina_1276_Textures/Marina_1276_NORM.png
+  artifactKey: Guid(41398d61bf4b3439cb4b4b37dff1abe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/characters/Marina_1276_Textures/Marina_1276_NORM.png using Guid(41398d61bf4b3439cb4b4b37dff1abe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f19f6635d20fd834837ce5a59aa21be') in 0.032344 seconds
+  Import took 0.040555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000499 seconds.
+  path: Assets/characters/Marina_1276_Textures/Marina_1276_REFL.jpg
+  artifactKey: Guid(388b2cc859a9c4113b553d03351c3fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/characters/Marina_1276_Textures/Marina_1276_REFL.jpg using Guid(388b2cc859a9c4113b553d03351c3fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02e2e19f6a57817a81e799237b41561b') in 0.022814 seconds
+  Import took 0.029042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/characters/Marina_1276_Textures/Marina_1276_OBJ.obj
+  artifactKey: Guid(07bd7c345baef461592f1256deb20eb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/characters/Marina_1276_Textures/Marina_1276_OBJ.obj using Guid(07bd7c345baef461592f1256deb20eb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01e32207c512b4ceacb0f6eab052f562') in 0.097691 seconds
+  Import took 0.107038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.260589 seconds.
+  path: Assets/characters/Marina_1276_Textures/New Material.mat
+  artifactKey: Guid(5272e341f88dd4967b55de5825ab2335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/characters/Marina_1276_Textures/New Material.mat using Guid(5272e341f88dd4967b55de5825ab2335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dfdbeb489744ee9644338455ace6935') in 0.036418 seconds
+  Import took 0.044664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 525.512480 seconds.
+  path: Assets/characters/Marina_1276_Textures/New Material.mat
+  artifactKey: Guid(5272e341f88dd4967b55de5825ab2335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/characters/Marina_1276_Textures/New Material.mat using Guid(5272e341f88dd4967b55de5825ab2335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54c18e637b02780dcc855e4905ea4a12') in 0.239607 seconds
+  Import took 0.323253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.104978 seconds.
+  path: Assets/makeup/dior-j'adore.obj
+  artifactKey: Guid(0cc8ee7abfe41409d867b04b09811929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/makeup/dior-j'adore.obj using Guid(0cc8ee7abfe41409d867b04b09811929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d6f58c069981fff3f5ab30a4ab9c533') in 0.538637 seconds
+  Import took 0.577069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 123.540057 seconds.
+  path: Assets/makeup/istockphoto-584878968-170667a.jpeg
+  artifactKey: Guid(20abd0f1e1bcd432c91e95082f4e0574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/makeup/istockphoto-584878968-170667a.jpeg using Guid(20abd0f1e1bcd432c91e95082f4e0574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30bc0d50db46107dad82b5d026718472') in 0.037201 seconds
+  Import took 0.042129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.707955 seconds.
+  path: Assets/makeup/New Material 1.mat
+  artifactKey: Guid(4625c06a33f524b979f522e12a92f9c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/makeup/New Material 1.mat using Guid(4625c06a33f524b979f522e12a92f9c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5083bf1e12a0444101fb7a6d5d0c7e10') in 0.032544 seconds
+  Import took 0.038255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.582804 seconds.
+  path: Assets/makeup/istockphoto-584878968-170667a.jpeg
+  artifactKey: Guid(20abd0f1e1bcd432c91e95082f4e0574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/makeup/istockphoto-584878968-170667a.jpeg using Guid(20abd0f1e1bcd432c91e95082f4e0574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b58805a35852cfdac9090cc27d4275cf') in 0.048103 seconds
+  Import took 0.053155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.767318 seconds.
+  path: Assets/HDRPFurniturePack/Wall_Decoration_Art_Zebra/Materials/Wall_Decoration_Art_Zebra.mat
+  artifactKey: Guid(50bdb369bd551a84689fb7a61f545aff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPFurniturePack/Wall_Decoration_Art_Zebra/Materials/Wall_Decoration_Art_Zebra.mat using Guid(50bdb369bd551a84689fb7a61f545aff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '023d8f04e16d5710e7f936f7eefde13d') in 0.024384 seconds
+  Import took 0.030470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.201848 seconds.
+  path: Assets/HDRPFurniturePack/Succulent_Planter/Textures/New Material 1.mat
+  artifactKey: Guid(b1d012bab03af4ca8be5e37a52c6d1df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPFurniturePack/Succulent_Planter/Textures/New Material 1.mat using Guid(b1d012bab03af4ca8be5e37a52c6d1df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e4105ca071d04df4e2914c1408389cc') in 0.022640 seconds
+  Import took 0.031472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000714 seconds.
+  path: Assets/HDRPFurniturePack/Succulent_Planter/Textures/New Material.mat
+  artifactKey: Guid(ba6afac88e0704fe6a6a04488da0989f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPFurniturePack/Succulent_Planter/Textures/New Material.mat using Guid(ba6afac88e0704fe6a6a04488da0989f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94090b4e90320fd52d47d260558da1e5') in 0.040325 seconds
+  Import took 0.049281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.065009 seconds.
+  path: Assets/HDRPFurniturePack/Rug_Woven_Wool_Natural/Textures/rug.mat
+  artifactKey: Guid(1a4075f721b4547dfa1c3e87066d9125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPFurniturePack/Rug_Woven_Wool_Natural/Textures/rug.mat using Guid(1a4075f721b4547dfa1c3e87066d9125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e9904b89fe5dacd3a4778e196d766cc') in 0.017622 seconds
+  Import took 0.023499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 101.047906 seconds.
+  path: Assets/HDRPFurniturePack/Demo_Scene/Light.mat
+  artifactKey: Guid(9c3657daaf0c80e43b482cc33dd63596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPFurniturePack/Demo_Scene/Light.mat using Guid(9c3657daaf0c80e43b482cc33dd63596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b646495fb61e44b85b932c28d89c0dd') in 0.025776 seconds
+  Import took 0.030715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/HDRPFurniturePack/Demo_Scene/Plane.prefab
+  artifactKey: Guid(587b8c7189a01ad4fbe2af6a8481982b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPFurniturePack/Demo_Scene/Plane.prefab using Guid(587b8c7189a01ad4fbe2af6a8481982b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa6f160bb54b5e83f1080fc76120022c') in 0.762354 seconds
+  Import took 0.767874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/HDRPFurniturePack/Demo_Scene/PlaneMaterial.mat
+  artifactKey: Guid(ba9c303c70436134194281afd1853b64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPFurniturePack/Demo_Scene/PlaneMaterial.mat using Guid(ba9c303c70436134194281afd1853b64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39e1f336798390ea7dcfa244c52b1cd7') in 0.019437 seconds
+  Import took 0.025735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.498979 seconds.
+  path: Assets/HDRPFurniturePack/Decorative_Throw_Pillows/Materials
+  artifactKey: Guid(1c898b340c44d534b8ffd7313c607b1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPFurniturePack/Decorative_Throw_Pillows/Materials using Guid(1c898b340c44d534b8ffd7313c607b1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77feff0354cead04f03551ddde2aca8e') in 0.002424 seconds
+  Import took 0.011043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.118572 seconds.
+  path: Assets/HDRPFurniturePack/Decorative_Throw_Pillows/Materials/Decorative_Throw_Pillow_9_Fabric.mat
+  artifactKey: Guid(4f05f5f322f4961479faa0b63c83250d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPFurniturePack/Decorative_Throw_Pillows/Materials/Decorative_Throw_Pillow_9_Fabric.mat using Guid(4f05f5f322f4961479faa0b63c83250d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69890b07f4b61abe03cc77c2cfec557c') in 0.027818 seconds
+  Import took 0.035099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.839683 seconds.
+  path: Assets/HDRPFurniturePack/Decorative_Throw_Pillows/Models
+  artifactKey: Guid(f15b2bcfe4be3874886102c8d47c29d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPFurniturePack/Decorative_Throw_Pillows/Models using Guid(f15b2bcfe4be3874886102c8d47c29d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea55dc6eb5c0f2bea298ee8709274fd9') in 0.003262 seconds
+  Import took 0.013462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001062 seconds.
+  path: Assets/HDRPFurniturePack/Decorative_Throw_Pillows/Models
+  artifactKey: Guid(f15b2bcfe4be3874886102c8d47c29d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPFurniturePack/Decorative_Throw_Pillows/Models using Guid(f15b2bcfe4be3874886102c8d47c29d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea55dc6eb5c0f2bea298ee8709274fd9') in 0.004475 seconds
+  Import took 0.011342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.600517 seconds.
+  path: Assets/HDRPFurniturePack/Decorative_Throw_Pillows/Textures
+  artifactKey: Guid(04fc741a765561543bbddae6de6946bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPFurniturePack/Decorative_Throw_Pillows/Textures using Guid(04fc741a765561543bbddae6de6946bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3086f3f27503ed0b5726fc9b82df741a') in 0.002476 seconds
+  Import took 0.009217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.100304 seconds.
+  path: Assets/HDRPFurniturePack/Decorative_Throw_Pillows/Textures/Decorative_Throw_Pillow_9_Fabric_DetailMap.png
+  artifactKey: Guid(c305f5f16c8f9034788da1775ec58313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPFurniturePack/Decorative_Throw_Pillows/Textures/Decorative_Throw_Pillow_9_Fabric_DetailMap.png using Guid(c305f5f16c8f9034788da1775ec58313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7ff78c3c1e2daf93e88514ddc878b0b') in 0.025421 seconds
+  Import took 0.031385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/HDRPFurniturePack/Decorative_Throw_Pillows/Textures/Decorative_Throw_Pillow_AO.png
+  artifactKey: Guid(7ffab5690f72d724594b6970cd9b40e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPFurniturePack/Decorative_Throw_Pillows/Textures/Decorative_Throw_Pillow_AO.png using Guid(7ffab5690f72d724594b6970cd9b40e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47e74e5c555b3e7dd423572c5220d983') in 0.022073 seconds
+  Import took 0.026527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000678 seconds.
+  path: Assets/HDRPFurniturePack/Decorative_Throw_Pillows/Textures/Fabric_Triangles2_Black_White.png
+  artifactKey: Guid(cb67d66a454c20f498a22ff4593740a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPFurniturePack/Decorative_Throw_Pillows/Textures/Fabric_Triangles2_Black_White.png using Guid(cb67d66a454c20f498a22ff4593740a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb91ab330c8b580bebd9ca5e4cfa266e') in 0.034393 seconds
+  Import took 0.041672 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/HDRPFurniturePack/Decorative_Throw_Pillows/Textures/Pillow_GenericFabric_NRM.png
+  artifactKey: Guid(5a35553f05c786143a779cb9fc68c452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPFurniturePack/Decorative_Throw_Pillows/Textures/Pillow_GenericFabric_NRM.png using Guid(5a35553f05c786143a779cb9fc68c452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4858fefa186f123154d9dee688358ab3') in 0.037059 seconds
+  Import took 0.046309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000805 seconds.
+  path: Assets/HDRPFurniturePack/Decorative_Throw_Pillows/Textures/Decorative_Throw_Pillow_9_Fabric_MaskMap.png
+  artifactKey: Guid(db5f3dac9d04cdb43a749ae0f45325a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPFurniturePack/Decorative_Throw_Pillows/Textures/Decorative_Throw_Pillow_9_Fabric_MaskMap.png using Guid(db5f3dac9d04cdb43a749ae0f45325a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0df0b826337ac18c6c2c41cd0bd3f395') in 0.016826 seconds
+  Import took 0.023896 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003901 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.863 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1657 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 185.8 MB.
+System memory in use after: 185.4 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2231.
+Total: 6.103760 ms (FindLiveObjects: 0.565435 ms CreateObjectMapping: 0.150437 ms MarkObjects: 4.444241 ms  DeleteObjects: 0.940542 ms)
+
