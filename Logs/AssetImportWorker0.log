@@ -501,3 +501,363 @@ System memory in use after: 185.4 MB.
 Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2231.
 Total: 6.103760 ms (FindLiveObjects: 0.565435 ms CreateObjectMapping: 0.150437 ms MarkObjects: 4.444241 ms  DeleteObjects: 0.940542 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 11589.612461 seconds.
+  path: Assets/Clothes/New Material 2.mat
+  artifactKey: Guid(1bba267ceaf004ec992a8248fabaf527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clothes/New Material 2.mat using Guid(1bba267ceaf004ec992a8248fabaf527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e68e3e6186f4bfae4a2d06b40e368d3') in 0.503292 seconds
+  Import took 0.572665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.970123 seconds.
+  path: Assets/characters/Ivan_1304_Obj/New Material.mat
+  artifactKey: Guid(c311ee610294e4e61963ade91c17cbf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/characters/Ivan_1304_Obj/New Material.mat using Guid(c311ee610294e4e61963ade91c17cbf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3f5ce1d1f5e78af98821d39b41a8aba') in 0.080751 seconds
+  Import took 0.088432 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009464 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  8.607 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.22 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1657 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 186.4 MB.
+System memory in use after: 185.9 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2235.
+Total: 8.734618 ms (FindLiveObjects: 1.714046 ms CreateObjectMapping: 0.287432 ms MarkObjects: 5.374976 ms  DeleteObjects: 1.354823 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 580.411045 seconds.
+  path: Assets/Standard Assets
+  artifactKey: Guid(c6195a43a0187a34e9c6be23520d3766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets using Guid(c6195a43a0187a34e9c6be23520d3766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ead2ecde14a66db7ceaad4cbc891b7d') in 0.022554 seconds
+  Import took 0.035213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.579763 seconds.
+  path: Assets/Standard Assets/PhysicsMaterials
+  artifactKey: Guid(5eebb5849c50a2c4ea24ded96e6f3aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/PhysicsMaterials using Guid(5eebb5849c50a2c4ea24ded96e6f3aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f031d0123e7940f43c26d598db76db55') in 0.002845 seconds
+  Import took 0.010945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.218223 seconds.
+  path: Assets/Standard Assets/PhysicsMaterials/Bouncy.physicmaterial
+  artifactKey: Guid(9f93f63d068b08c459038c40fce897d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/PhysicsMaterials/Bouncy.physicmaterial using Guid(9f93f63d068b08c459038c40fce897d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56384e23ec9c221047ae6196c7ef75c9') in 0.856908 seconds
+  Import took 0.869547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005040 seconds.
+  path: Assets/Standard Assets/PhysicsMaterials/Ice.physicmaterial
+  artifactKey: Guid(ba92fb44336020f40bdf294bb66bc9da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/PhysicsMaterials/Ice.physicmaterial using Guid(ba92fb44336020f40bdf294bb66bc9da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb6f7878ad5e6de132e85aee279f7f8e') in 0.007587 seconds
+  Import took 0.018275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000914 seconds.
+  path: Assets/Standard Assets/PhysicsMaterials/Rubber.physicmaterial
+  artifactKey: Guid(52baaeb214519f347a35cf0edfd262ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/PhysicsMaterials/Rubber.physicmaterial using Guid(52baaeb214519f347a35cf0edfd262ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75f1f29064e814b4914b3968d77c7248') in 0.015087 seconds
+  Import took 0.036889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013301 seconds.
+  path: Assets/Standard Assets/PhysicsMaterials/Wood.physicmaterial
+  artifactKey: Guid(3aeb7dadc0c69d54d9e5777e9d5631f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/PhysicsMaterials/Wood.physicmaterial using Guid(3aeb7dadc0c69d54d9e5777e9d5631f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91ac2da89502750a0787732feb58f690') in 0.011191 seconds
+  Import took 0.027891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002382 seconds.
+  path: Assets/Standard Assets/PhysicsMaterials/ZeroFriction.physicMaterial
+  artifactKey: Guid(c2815a7ab32e42c4bb42f59caacb8ec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/PhysicsMaterials/ZeroFriction.physicMaterial using Guid(c2815a7ab32e42c4bb42f59caacb8ec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5976a7069a3c092c7447edbb1940c023') in 0.739461 seconds
+  Import took 0.761409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/Standard Assets/PhysicsMaterials/MaxFriction.physicMaterial
+  artifactKey: Guid(e52fb17f9b1e7fd48b8955f1391d3688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/PhysicsMaterials/MaxFriction.physicMaterial using Guid(e52fb17f9b1e7fd48b8955f1391d3688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb7097840c7687a4c283b7b557e347c3') in 0.034738 seconds
+  Import took 0.049983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000555 seconds.
+  path: Assets/Standard Assets/PhysicsMaterials/Metal.physicmaterial
+  artifactKey: Guid(01571ba68fb2dad46aa03094ab219579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/PhysicsMaterials/Metal.physicmaterial using Guid(01571ba68fb2dad46aa03094ab219579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf9fc40a58485d71b309c600ab60ba92') in 0.021396 seconds
+  Import took 0.034437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.026226 seconds.
+  path: Assets/Standard Assets/PhysicsMaterials/New Material.mat
+  artifactKey: Guid(3705d83af879d49c0a9575d9ebcb0d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/PhysicsMaterials/New Material.mat using Guid(3705d83af879d49c0a9575d9ebcb0d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93462474c8b54f341070c8a88fc47e23') in 0.376764 seconds
+  Import took 0.391005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 163.086697 seconds.
+  path: Assets/Floors/marble_01_4k_jpg
+  artifactKey: Guid(440fa6e6401124098b97f14c684bbeb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Floors/marble_01_4k_jpg using Guid(440fa6e6401124098b97f14c684bbeb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3125994c2ca7042f49f986862764e758') in 0.012932 seconds
+  Import took 0.067522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002593 seconds.
+  path: Assets/Floors/marble_01_4k_jpg
+  artifactKey: Guid(440fa6e6401124098b97f14c684bbeb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Floors/marble_01_4k_jpg using Guid(440fa6e6401124098b97f14c684bbeb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3125994c2ca7042f49f986862764e758') in 0.004925 seconds
+  Import took 0.013821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.086865 seconds.
+  path: Assets/Floors/marble_01_4k_jpg/marble_01_AO_4k.jpg
+  artifactKey: Guid(decd0f78e4ab94b96a3474b2d69a161f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Floors/marble_01_4k_jpg/marble_01_AO_4k.jpg using Guid(decd0f78e4ab94b96a3474b2d69a161f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9e9fd3b539fdc4940961334a810fbc5') in 0.299191 seconds
+  Import took 0.333019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000966 seconds.
+  path: Assets/Floors/marble_01_4k_jpg/marble_01_rough_4k.jpg
+  artifactKey: Guid(4eeccad6ec4a744bd95031c27b0feaa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Floors/marble_01_4k_jpg/marble_01_rough_4k.jpg using Guid(4eeccad6ec4a744bd95031c27b0feaa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a09008d5bdd788fd6d0030f916b02f40') in 0.038422 seconds
+  Import took 0.050111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000649 seconds.
+  path: Assets/Floors/marble_01_4k_jpg/marble_01_nor_4k.jpg
+  artifactKey: Guid(788bf6d46d31f49509a5b1e67483ebff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Floors/marble_01_4k_jpg/marble_01_nor_4k.jpg using Guid(788bf6d46d31f49509a5b1e67483ebff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71e2b57831bcb00edc817ee6cc2ecfe5') in 0.082442 seconds
+  Import took 0.140927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Floors/marble_01_4k_jpg/marble_01_diff_4k.jpg
+  artifactKey: Guid(3a8730767be2f4500a09d01d7de7658e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Floors/marble_01_4k_jpg/marble_01_diff_4k.jpg using Guid(3a8730767be2f4500a09d01d7de7658e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a13eeeb35e6ab7f06216d52e873e1484') in 0.147487 seconds
+  Import took 0.172963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000464 seconds.
+  path: Assets/Floors/marble_01_4k_jpg/marble_01_disp_4k.jpg
+  artifactKey: Guid(1a6a3d543994b4cc78021b786762d9cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Floors/marble_01_4k_jpg/marble_01_disp_4k.jpg using Guid(1a6a3d543994b4cc78021b786762d9cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '190c84ccae5ee2376783a8de0260ffd6') in 0.030721 seconds
+  Import took 0.038123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Floors/marble_01_4k_jpg/marble_01_spec_4k.jpg
+  artifactKey: Guid(e3c9a9513e1a54345b3ac3db361a5e78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Floors/marble_01_4k_jpg/marble_01_spec_4k.jpg using Guid(e3c9a9513e1a54345b3ac3db361a5e78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cc3aeef7c489c69b247e58c377d1123') in 0.210766 seconds
+  Import took 0.219952 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004553 seconds.
+  path: Assets/Floors/marble_01_4k_jpg/marble_01_disp_4k.jpg
+  artifactKey: Guid(1a6a3d543994b4cc78021b786762d9cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Floors/marble_01_4k_jpg/marble_01_disp_4k.jpg using Guid(1a6a3d543994b4cc78021b786762d9cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '190c84ccae5ee2376783a8de0260ffd6') in 0.030110 seconds
+  Import took 0.036780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.312931 seconds.
+  path: Assets/Floors/marble_01_4k_jpg/New Material.mat
+  artifactKey: Guid(7936fe4f729244328943c46c1acbaa57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Floors/marble_01_4k_jpg/New Material.mat using Guid(7936fe4f729244328943c46c1acbaa57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d1f864bf576518895a9b8de553947bc') in 0.077208 seconds
+  Import took 0.088360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 169.325976 seconds.
+  path: Assets/MASH Virtual
+  artifactKey: Guid(b05593ca4840c41c9a95cf3718304c22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MASH Virtual using Guid(b05593ca4840c41c9a95cf3718304c22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0d161595be3334fc3bc5c82d2a61ff4') in 0.011272 seconds
+  Import took 0.069017 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.024254 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.555 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1657 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 195.2 MB.
+System memory in use after: 194.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2239.
+Total: 25.325820 ms (FindLiveObjects: 0.965109 ms CreateObjectMapping: 0.337044 ms MarkObjects: 14.903462 ms  DeleteObjects: 9.116102 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006542 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.71 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.591 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1657 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 195.6 MB.
+System memory in use after: 195.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2242.
+Total: 7.730623 ms (FindLiveObjects: 0.689757 ms CreateObjectMapping: 0.144535 ms MarkObjects: 5.778746 ms  DeleteObjects: 1.114649 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 700.219231 seconds.
+  path: Assets/Floors/marble_01_4k_jpg/New Material.mat
+  artifactKey: Guid(7936fe4f729244328943c46c1acbaa57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Floors/marble_01_4k_jpg/New Material.mat using Guid(7936fe4f729244328943c46c1acbaa57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c9d6396ae4c804c0129e7157fcabcb8') in 0.238101 seconds
+  Import took 0.249098 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006879 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  9.570 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.83 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1657 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 196.1 MB.
+System memory in use after: 195.6 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2246.
+Total: 17.012958 ms (FindLiveObjects: 4.081417 ms CreateObjectMapping: 0.402208 ms MarkObjects: 11.089559 ms  DeleteObjects: 1.436957 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 140.805835 seconds.
+  path: Assets/HDRPFurniturePack/Rug_Woven_Wool_Natural/Materials
+  artifactKey: Guid(de0af1f7406def64880b35b8dd41b78c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPFurniturePack/Rug_Woven_Wool_Natural/Materials using Guid(de0af1f7406def64880b35b8dd41b78c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12d65bbd49720f125490380dbda465db') in 0.021412 seconds
+  Import took 0.030263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.202057 seconds.
+  path: Assets/HDRPFurniturePack/Rug_Woven_Wool_Natural/Materials/New Material.mat
+  artifactKey: Guid(e1f8746c8f3366740aa6340c315656f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPFurniturePack/Rug_Woven_Wool_Natural/Materials/New Material.mat using Guid(e1f8746c8f3366740aa6340c315656f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5804ea6b0785065a4786f467160a04b') in 0.280414 seconds
+  Import took 0.288684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000485 seconds.
+  path: Assets/HDRPFurniturePack/Rug_Woven_Wool_Natural/Materials/Rug_Woven_Wool_Natural.mat
+  artifactKey: Guid(f55f87bab04ff7f46b9900b79439a964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPFurniturePack/Rug_Woven_Wool_Natural/Materials/Rug_Woven_Wool_Natural.mat using Guid(f55f87bab04ff7f46b9900b79439a964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc8f964a80d1305df07853c34827d3cf') in 0.041149 seconds
+  Import took 0.054527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000701 seconds.
+  path: Assets/HDRPFurniturePack/Rug_Woven_Wool_Natural/Materials/Rug_160x230_Wool_Grey_MaskMap 1.png
+  artifactKey: Guid(aefa62b5ebd4a574da9e885515187735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPFurniturePack/Rug_Woven_Wool_Natural/Materials/Rug_160x230_Wool_Grey_MaskMap 1.png using Guid(aefa62b5ebd4a574da9e885515187735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df4b4c505ed522f7aa7f9e8cae886726') in 0.120285 seconds
+  Import took 0.128891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/HDRPFurniturePack/Rug_Woven_Wool_Natural/Materials/Rug_Woven_Wool_Natural_DetailMap.png
+  artifactKey: Guid(b057adc19642d6c4884cada6d16f8225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPFurniturePack/Rug_Woven_Wool_Natural/Materials/Rug_Woven_Wool_Natural_DetailMap.png using Guid(b057adc19642d6c4884cada6d16f8225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4511e675c86b05ed2ae60665d0b7624a') in 0.068479 seconds
+  Import took 0.089097 seconds .
+
