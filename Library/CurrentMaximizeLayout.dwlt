@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 471}
   m_MaxSize: {x: 14001, y: 14021}
   vertical: 0
-  controlID: 128
+  controlID: 569
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -138,7 +138,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 471}
   m_MaxSize: {x: 10000, y: 14021}
   vertical: 1
-  controlID: 129
+  controlID: 570
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -163,7 +163,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 130
+  controlID: 571
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -220,7 +220,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 86faffff
+      m_ExpandedIDs: d0e7ffff28ebffff86faffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -307,9 +307,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -113.46658, y: -81.38163, z: 289.09363}
+    m_Target: {x: 840.04913, y: -645.0948, z: 736.494}
     speed: 2
-    m_Value: {x: -113.46658, y: -81.38163, z: 289.09363}
+    m_Value: {x: 840.04913, y: -645.0948, z: 736.494}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -356,13 +356,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.15729581, y: -0.1284852, z: 0.020623568, w: 0.9789729}
+    m_Target: {x: -0.23354873, y: -0.4128748, z: 0.11046399, w: -0.87341416}
     speed: 2
-    m_Value: {x: 0.1572908, y: -0.12848112, z: 0.020622913, w: 0.97894174}
+    m_Value: {x: -0.23354113, y: -0.41286135, z: 0.1104604, w: -0.8733857}
   m_Size:
-    m_Target: 154.00388
+    m_Target: 664.9921
     speed: 2
-    m_Value: 154.00388
+    m_Value: 664.9921
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -452,22 +452,22 @@ MonoBehaviour:
     m_SkipHidden: 1
     m_SearchArea: 1
     m_Folders:
-    - Assets/HDRPFurniturePack
+    - Assets/Decorations/Asta_LG1_obj/textures
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 67
   m_LastFolders:
-  - Assets/HDRPFurniturePack
+  - Assets/Decorations/Asta_LG1_obj/textures
   m_LastFoldersGridSize: 67
   m_LastProjectPath: /Users/anshitagoel/Documents/GitHub/Mall
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: c44e0000
-    m_LastClickedID: 20164
-    m_ExpandedIDs: 000000007a4e0000c44e000000ca9a3b
+    m_SelectedIDs: 24530000
+    m_LastClickedID: 21284
+    m_ExpandedIDs: 000000007a4e00001c5300002253000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -495,7 +495,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000007a4e0000
+    m_ExpandedIDs: 000000007a4e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -520,8 +520,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 3af8ffff
-    m_LastClickedInstanceID: -1990
+    m_SelectedInstanceIDs: cce6ffff
+    m_LastClickedInstanceID: -6452
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c623000000000000ec5500002e500000
     m_RenameOverlay:
@@ -595,8 +595,8 @@ MonoBehaviour:
     y: 0
     width: 427
     height: 850
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -634,7 +634,7 @@ MonoBehaviour:
     m_CachedPref: 160
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
-  m_LastInspectedObjectInstanceID: -1990
+  m_LastInspectedObjectInstanceID: -6452
   m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_LockTracker:
