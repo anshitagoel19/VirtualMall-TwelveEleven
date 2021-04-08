@@ -77,3 +77,131 @@ Received Import Request.
 Start importing Assets/HDRPFurniturePack/MirrorOBJ.obj using Guid(007e3517b6b2a4675a8d6591ed3b73a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '476bcf70474b91ad3b576697b2bdfa8e') in 6.181285 seconds
   Import took 6.189699 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002304 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.791 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1658 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 163.9 MB.
+System memory in use after: 163.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2225.
+Total: 6.229624 ms (FindLiveObjects: 0.892140 ms CreateObjectMapping: 0.187860 ms MarkObjects: 4.397766 ms  DeleteObjects: 0.740022 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 755.004508 seconds.
+  path: Assets/Decorations
+  artifactKey: Guid(76d8b14cd2631401db05b7c67791b567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations using Guid(76d8b14cd2631401db05b7c67791b567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bf4ba8286e7268d574497b626d98f11') in 0.014871 seconds
+  Import took 0.023276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.857301 seconds.
+  path: Assets/Decorations/Round_rosette_031.obj
+  artifactKey: Guid(0075c98dc5a714794a3f1d02ce861201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Round_rosette_031.obj using Guid(0075c98dc5a714794a3f1d02ce861201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c08d32812baa8ab778f4263e3106e4e') in 0.288921 seconds
+  Import took 0.298040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.258401 seconds.
+  path: Assets/Decorations/istockphoto-1168893848-170667a.jpeg
+  artifactKey: Guid(b6eff7231cf0e462096c95c1cffd616d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/istockphoto-1168893848-170667a.jpeg using Guid(b6eff7231cf0e462096c95c1cffd616d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '622559c237137b397b4229b78de0a570') in 1.866727 seconds
+  Import took 1.877173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 200.258426 seconds.
+  path: Assets/Decorations/New Material.mat
+  artifactKey: Guid(b17a7a41a8f6b4370a930ddeca0a28f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/New Material.mat using Guid(b17a7a41a8f6b4370a930ddeca0a28f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ac34b2460210cbb64f2ce9248ff57c1') in 2.451772 seconds
+  Import took 2.461316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.710138 seconds.
+  path: Assets/Decorations/Asta_LG1_obj
+  artifactKey: Guid(f4442f104790548b29d033665a33b613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Asta_LG1_obj using Guid(f4442f104790548b29d033665a33b613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '826ea36edc08973bbc821cf8f4fcc0cf') in 0.004439 seconds
+  Import took 0.016706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.122796 seconds.
+  path: Assets/Decorations/Asta_LG1_obj/Asta LG1.obj
+  artifactKey: Guid(9f98efa5bede34cfeb10556f7c516eaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Asta_LG1_obj/Asta LG1.obj using Guid(9f98efa5bede34cfeb10556f7c516eaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7066b0a41c0846744e7c72d81d19a4b8') in 0.054043 seconds
+  Import took 0.060002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Decorations/Asta_LG1_obj/Astra LG1.jpg
+  artifactKey: Guid(7c745d4beded94b15b03292dd6b31905) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Asta_LG1_obj/Astra LG1.jpg using Guid(7c745d4beded94b15b03292dd6b31905) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '569a1bf5d96776089e44689e9b48ec7e') in 2.504419 seconds
+  Import took 2.510357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 126.239553 seconds.
+  path: Assets/Decorations/Asta_LG1_obj/textures
+  artifactKey: Guid(989f44408e5ef4b9c95c87a8cda5c469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Asta_LG1_obj/textures using Guid(989f44408e5ef4b9c95c87a8cda5c469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f341f7e773c59282f97b9399d46ad50') in 0.007232 seconds
+  Import took 0.014453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.149102 seconds.
+  path: Assets/Decorations/Asta_LG1_obj/textures/Lenta Plafon.jpg
+  artifactKey: Guid(c66242e7bb3c64086ad30510fffe4a52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Asta_LG1_obj/textures/Lenta Plafon.jpg using Guid(c66242e7bb3c64086ad30510fffe4a52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23700adc56d72bd40e288a814e85bfd3') in 0.025520 seconds
+  Import took 0.034082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000738 seconds.
+  path: Assets/Decorations/Asta_LG1_obj/textures/Plafon ref.jpg
+  artifactKey: Guid(27ac2ef4c6d604af984c76b81218dee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Asta_LG1_obj/textures/Plafon ref.jpg using Guid(27ac2ef4c6d604af984c76b81218dee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afab60dfcadd10de723128ee49a6649c') in 0.023762 seconds
+  Import took 0.031305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Decorations/Asta_LG1_obj/textures/Plafon.jpg
+  artifactKey: Guid(5074b8e32d7a74de6abf16450e95f1eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Asta_LG1_obj/textures/Plafon.jpg using Guid(5074b8e32d7a74de6abf16450e95f1eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '599b7b9e7755ae9f7f2ccb1d76dd4d53') in 0.031021 seconds
+  Import took 0.036021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.676776 seconds.
+  path: Assets/Decorations/Asta_LG1_obj/textures/New Material.mat
+  artifactKey: Guid(f948595446fd3467b99db7bbb1592b18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Asta_LG1_obj/textures/New Material.mat using Guid(f948595446fd3467b99db7bbb1592b18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11701841a50b70d7c93b21ff19d02141') in 0.027634 seconds
+  Import took 0.040868 seconds .
+
