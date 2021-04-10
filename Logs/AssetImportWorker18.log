@@ -464,3 +464,27 @@ System memory in use after: 187.3 MB.
 Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2201.
 Total: 7.180401 ms (FindLiveObjects: 0.720082 ms CreateObjectMapping: 0.132955 ms MarkObjects: 5.075275 ms  DeleteObjects: 1.246253 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 2180.781762 seconds.
+  path: Assets/characters/clothes for sophie/clothes.mat
+  artifactKey: Guid(f78d397f3d7644a5fadb60ffa072acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/characters/clothes for sophie/clothes.mat using Guid(f78d397f3d7644a5fadb60ffa072acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd114085fd8472a85f1eef0b389dafda6') in 0.517004 seconds
+  Import took 0.563530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/characters/clothes for sophie/hair.mat
+  artifactKey: Guid(9c38a174b7af74fe78e376107bb1ad38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/characters/clothes for sophie/hair.mat using Guid(9c38a174b7af74fe78e376107bb1ad38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acc2ed6fa26a82eac48a47a0033c7230') in 0.056796 seconds
+  Import took 0.066280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001922 seconds.
+  path: Assets/characters/clothes for sophie/skin tone.mat
+  artifactKey: Guid(6ee51044a245341b9bbe727b77b15789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/characters/clothes for sophie/skin tone.mat using Guid(6ee51044a245341b9bbe727b77b15789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e670f6544e2dde28c0c7104861a617eb') in 0.037160 seconds
+  Import took 0.044209 seconds .
+
