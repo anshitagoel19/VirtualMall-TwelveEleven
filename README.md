@@ -14,13 +14,58 @@ The shoppers will be able to walk walk through the sections of mall with other s
 The users will also be able to create a personalised avatar and use virtual try-on to find their best fit.  
 
 ---
+# Feature Impact
+### Increased Sales
+This 3-D environment will give the users a break from the already existing online shopping interfaces in India by  providing them with a fun shopping experience and hence would attract more users and screen time to Myntra
+
+### Shopper's Community Building 
+Our project will help to build an online community of shoppers where they can shop online with their friends or find people with similar shopping patterns and likings and connect with each other
+
+### Influencer Collaborations
+This will provide fashion influencers a platform to showcase their fashion sense and collaborate 
+
+### KickStart to Virtual Fashion Advising 
+This would give rise to online fashion advising industry, Myntra advisors could join the platform to give personlised shopping advice based on the shopper's avatar
+
+### Traffic Engagement by Gamification of shopping 
+Users can walk around the mall, talk to people and have a virtual life, this gamification will lead to increased and more engaged traffic while giving users a fun shopping experience
+
+### Bridges the gap between Online and In-store Shopping
+Our model bridges the gap between online and offline shopping by providing users a real life shopping experince
+
+---
 # Technology Stack
-Developed on Unity using scripting language as C#
+We have developed the environment on Unity and used C# as a scripting language for implementing features and character controls.
+Externally used Photon for chat and networking. Unity Assets, Texture Haven, switchfab for beautifucation of environment.
 
-Used Photon and Unity Assets
+### Unity 
+Cross-platform game engine.
+Used to create the virtual enviroment
 
-With the help of official [Unity Documentation](https://docs.unity3d.com/Manual/index.html "Unity ")  
+### C#
+C# for scripts, character control, UI componets and chat
 
+### Photon
+Networking Engine and
+Cross platform Chat Service
+
+### Unity Asset Store
+Unity Library for assets and animations
+
+### Sketch Fab
+Web platform for 3D models 
+
+### Texture Haven
+Platform for high quality scanned texture 
+
+
+
+
+### With the help of official [Unity Documentation](https://docs.unity3d.com/Manual/index.html "Unity ")  
+
+
+
+### Flowchart of Components 
 ![flowchart](flowchartUnity.png)
 
 ---
