@@ -8,1246 +8,96 @@ Using pre-set license
 -name
 AssetImportWorker0
 -projectPath
-/Users/adityachawla/Desktop/VirtualMall-TwelveEleven-github CLONE
+/Users/anshitagoel/Documents/GitHub/Mall
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-54274
-Successfully changed project path to: /Users/adityachawla/Desktop/VirtualMall-TwelveEleven-github CLONE
-/Users/adityachawla/Desktop/VirtualMall-TwelveEleven-github CLONE
+51585
+Successfully changed project path to: /Users/anshitagoel/Documents/GitHub/Mall
+/Users/anshitagoel/Documents/GitHub/Mall
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 78.99 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 139.20 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
 [Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path /Users/adityachawla/Desktop/VirtualMall-TwelveEleven-github CLONE/Assets
+[Subsystems] Discovering subsystems at path /Users/anshitagoel/Documents/GitHub/Mall/Assets
 GfxDevice: creating device client; threaded=0
-2021-04-20 03:48:49.806 Unity[9687:306110] Color LCD preferred device: Intel(R) Iris(TM) Graphics 6000 (low power)
-2021-04-20 03:48:49.806 Unity[9687:306110] Metal devices available: 1
-2021-04-20 03:48:49.806 Unity[9687:306110] 0: Intel(R) Iris(TM) Graphics 6000 (low power)
-2021-04-20 03:48:49.807 Unity[9687:306110] Using device Intel(R) Iris(TM) Graphics 6000 (low power)
+2021-04-21 22:05:50.392 Unity[88447:4473085] Color LCD preferred device: Intel(R) Iris(TM) Graphics 6000 (low power)
+2021-04-21 22:05:50.392 Unity[88447:4473085] Metal devices available: 1
+2021-04-21 22:05:50.392 Unity[88447:4473085] 0: Intel(R) Iris(TM) Graphics 6000 (low power)
+2021-04-21 22:05:50.392 Unity[88447:4473085] Using device Intel(R) Iris(TM) Graphics 6000 (low power)
 Initializing Metal device caps: Intel(R) Iris(TM) Graphics 6000
 Initialize mono
 Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/Managed'
 Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = '/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56687
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56447
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /Applications/Unity/Hub/Editor/2020.3.2f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: /Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Registered in 0.002995 seconds.
+Registered in 0.003547 seconds.
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 63.60 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 254.08 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.808 seconds
+- Completed reload, in  6.140 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001948 seconds.
+Registered in 0.015449 seconds.
 Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 1.71 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.998 seconds
+- Completed reload, in  5.658 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launching external process: /Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/Tools/UnityShaderCompiler
-Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
-Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Launched and connected shader compiler UnityShaderCompiler after 0.05 seconds
+Refreshing native plugins compatible for Editor in 1.14 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1728 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 161.6 MB.
-System memory in use after: 161.1 MB.
+Unloading 2339 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 202.5 MB.
+System memory in use after: 201.6 MB.
 
-Unloading 76 unused Assets to reduce memory usage. Loaded Objects now: 2167.
-Total: 4.421049 ms (FindLiveObjects: 0.376540 ms CreateObjectMapping: 0.102136 ms MarkObjects: 3.135565 ms  DeleteObjects: 0.804828 ms)
+Unloading 477 unused Assets to reduce memory usage. Loaded Objects now: 2648.
+Total: 6.602260 ms (FindLiveObjects: 1.025043 ms CreateObjectMapping: 0.685373 ms MarkObjects: 3.210855 ms  DeleteObjects: 1.678669 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Clothing System 3D/Prefabs/horse.prefab
-  artifactKey: Guid(f3b0dccebd7c7124b929e6f5310cde62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Prefabs/horse.prefab using Guid(f3b0dccebd7c7124b929e6f5310cde62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90548f9471b700ec1b66fc4bc1ea7d0e') in 2.125470 seconds
-  Import took 2.133487 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000326 seconds.
-  path: Assets/Clothing System 3D/Prefabs
-  artifactKey: Guid(e0223c7f6a4be3c41aeda2685d9f28c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Prefabs using Guid(e0223c7f6a4be3c41aeda2685d9f28c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ce6a8a0da625b00be4d1d52896565c1') in 0.002786 seconds
-  Import took 0.010044 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000390 seconds.
-  path: Assets/Clothing System 3D/Prefabs/Human.prefab
-  artifactKey: Guid(cde4c72faf36fb44f96120078e2d9f5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Prefabs/Human.prefab using Guid(cde4c72faf36fb44f96120078e2d9f5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c722fbf86db9bcd51c5750e5782af00c') in 0.045466 seconds
-  Import took 0.056674 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000296 seconds.
-  path: Assets/Clothing System 3D/Prefabs/chibi.prefab
-  artifactKey: Guid(1fe176889c57659428e80effcf1f87e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Prefabs/chibi.prefab using Guid(1fe176889c57659428e80effcf1f87e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aadc1b89adc17c7f76e377b277c86d2e') in 0.011072 seconds
-  Import took 0.018185 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.053388 seconds.
-  path: Assets/Clothing System 3D/Prefabs/Human.prefab
-  artifactKey: Guid(cde4c72faf36fb44f96120078e2d9f5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Prefabs/Human.prefab using Guid(cde4c72faf36fb44f96120078e2d9f5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c722fbf86db9bcd51c5750e5782af00c') in 0.132715 seconds
-  Import took 0.142238 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 57.264141 seconds.
-  path: Assets/Clothing System 3D/Prefabs/horse.prefab
-  artifactKey: Guid(f3b0dccebd7c7124b929e6f5310cde62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Prefabs/horse.prefab using Guid(f3b0dccebd7c7124b929e6f5310cde62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef53ff16f99a31174fddf56da08993d5') in 0.096028 seconds
-  Import took 0.103976 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.019348 seconds.
-  path: Assets/Clothing System 3D/Prefabs/Human.prefab
-  artifactKey: Guid(cde4c72faf36fb44f96120078e2d9f5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Prefabs/Human.prefab using Guid(cde4c72faf36fb44f96120078e2d9f5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83e6a27e8a564824611daef1247c2bcb') in 0.300774 seconds
-  Import took 0.307538 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.908811 seconds.
-  path: Assets/Clothing System 3D/Prefabs/chibi.prefab
-  artifactKey: Guid(1fe176889c57659428e80effcf1f87e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Prefabs/chibi.prefab using Guid(1fe176889c57659428e80effcf1f87e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '465f9e97e4966976e899cae10cc50bdd') in 0.007549 seconds
-  Import took 0.012402 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.051413 seconds.
-  path: Assets/Clothing System 3D/Prefabs/chibi.prefab
-  artifactKey: Guid(1fe176889c57659428e80effcf1f87e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Prefabs/chibi.prefab using Guid(1fe176889c57659428e80effcf1f87e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '465f9e97e4966976e899cae10cc50bdd') in 0.009219 seconds
-  Import took 0.016958 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 27.479374 seconds.
-  path: Assets/Clothing System 3D/Models/female_body.fbx
-  artifactKey: Guid(0840a29f773a210429bc8ed92b910e83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/female_body.fbx using Guid(0840a29f773a210429bc8ed92b910e83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f26558a2af3ed60c55b9ba6b77a79e56') in 0.681045 seconds
-  Import took 0.687435 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000406 seconds.
-  path: Assets/Clothing System 3D/Models/human_base.fbx
-  artifactKey: Guid(8758e754042e93d44a6972305e3eb716) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/human_base.fbx using Guid(8758e754042e93d44a6972305e3eb716) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5331cb0a2f5dc16625105f0c8041af9') in 0.047201 seconds
-  Import took 0.053313 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000384 seconds.
-  path: Assets/Clothing System 3D/Models/male_body.fbx
-  artifactKey: Guid(a6e84a5d73cb4b742bc7f1d34c6e6091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/male_body.fbx using Guid(a6e84a5d73cb4b742bc7f1d34c6e6091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cad831e4d6ed96558a9a2ef71ec56486') in 0.228717 seconds
-  Import took 0.234297 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000461 seconds.
-  path: Assets/Clothing System 3D/Models/horse_base.fbx
-  artifactKey: Guid(5542f96c9ec26dd4da5a8a2bea851244) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/horse_base.fbx using Guid(5542f96c9ec26dd4da5a8a2bea851244) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a2281f05281aea9d4bf988bdcda68a2') in 0.046204 seconds
-  Import took 0.050128 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000358 seconds.
-  path: Assets/Clothing System 3D/Models/horse.fbx
-  artifactKey: Guid(d940b35f9485fb9438288f567cba8d4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/horse.fbx using Guid(d940b35f9485fb9438288f567cba8d4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f73b44d0b3d43ad08ac5f0b844073133') in 0.062893 seconds
-  Import took 0.068096 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000391 seconds.
-  path: Assets/Clothing System 3D/Models/horse_squeleton.fbx
-  artifactKey: Guid(aa0f383ffee893340bd599c3dca69cbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/horse_squeleton.fbx using Guid(aa0f383ffee893340bd599c3dca69cbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f4da2b43a263ceab1003e1f66b59f58') in 0.064854 seconds
-  Import took 0.074851 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.620952 seconds.
-  path: Assets/Clothing System 3D/Models/Chibi
-  artifactKey: Guid(6f6edff90b4412049a603fafdfa73048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Chibi using Guid(6f6edff90b4412049a603fafdfa73048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e93637b13c56ea5d0dfbf6cef100112d') in 0.002292 seconds
-  Import took 0.007970 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016001 seconds.
-  path: Assets/Clothing System 3D/Models/Chibi
-  artifactKey: Guid(6f6edff90b4412049a603fafdfa73048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Chibi using Guid(6f6edff90b4412049a603fafdfa73048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e93637b13c56ea5d0dfbf6cef100112d') in 0.003376 seconds
-  Import took 0.011609 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.169864 seconds.
-  path: Assets/Clothing System 3D/Models/Chibi/chibi.fbx
-  artifactKey: Guid(45e8eef3c3d04994ba435e05fd49f885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Chibi/chibi.fbx using Guid(45e8eef3c3d04994ba435e05fd49f885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3efea8bfd4e2fe1eee0afda889ec57d') in 0.284122 seconds
-  Import took 0.291827 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000379 seconds.
-  path: Assets/Clothing System 3D/Models/Chibi/shorts.fbx
-  artifactKey: Guid(dfbaeeb8024c07b4a93cc4d49066e82f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Chibi/shorts.fbx using Guid(dfbaeeb8024c07b4a93cc4d49066e82f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f25eb04523c58ddeb0c0fbf4efdf664') in 0.076457 seconds
-  Import took 0.083548 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.009271 seconds.
-  path: Assets/Clothing System 3D/Models/Chibi/shoes.fbx
-  artifactKey: Guid(f65d957e368190b41abc3089d5a719f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Chibi/shoes.fbx using Guid(f65d957e368190b41abc3089d5a719f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84278104c6dab776ab7822e696616de1') in 0.104948 seconds
-  Import took 0.114065 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000386 seconds.
-  path: Assets/Clothing System 3D/Models/Chibi/wintercap.fbx
-  artifactKey: Guid(a48f94a96c7673940ad1719b64bb5d9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Chibi/wintercap.fbx using Guid(a48f94a96c7673940ad1719b64bb5d9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '297f2d032d151839ccdde24b47b668e1') in 0.034958 seconds
-  Import took 0.042051 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000275 seconds.
-  path: Assets/Clothing System 3D/Models/Chibi/robes.fbx
-  artifactKey: Guid(8bb2d49cd9af0d64aaf6ede3f8dda49a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Chibi/robes.fbx using Guid(8bb2d49cd9af0d64aaf6ede3f8dda49a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24d74c5639bbce80a2c99522d9bd9390') in 0.079691 seconds
-  Import took 0.083979 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000335 seconds.
-  path: Assets/Clothing System 3D/Models/Chibi/chibi_base.fbx
-  artifactKey: Guid(42c84b4469c3f7d41a0d4d0c01403114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Chibi/chibi_base.fbx using Guid(42c84b4469c3f7d41a0d4d0c01403114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28749f4bbcc066c0f7940c404c7114cc') in 0.072054 seconds
-  Import took 0.083787 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000459 seconds.
-  path: Assets/Clothing System 3D/Models/Chibi/sneakers.fbx
-  artifactKey: Guid(f82e9e3d71b174e43bb183a8dea9ccdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Chibi/sneakers.fbx using Guid(f82e9e3d71b174e43bb183a8dea9ccdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e6042bcd7c2182f2bdbbe8cc2d6969b') in 0.051153 seconds
-  Import took 0.059543 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000671 seconds.
-  path: Assets/Clothing System 3D/Models/Chibi/tshirt.fbx
-  artifactKey: Guid(172aa40cee566464ba7ec00fef4c1464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Chibi/tshirt.fbx using Guid(172aa40cee566464ba7ec00fef4c1464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fca39e46996aa09bc82323b09bcba15') in 0.060594 seconds
-  Import took 0.065636 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000340 seconds.
-  path: Assets/Clothing System 3D/Models/Chibi/hair_male.fbx
-  artifactKey: Guid(3f25e46bf7c0aca4bb709481f04b055f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Chibi/hair_male.fbx using Guid(3f25e46bf7c0aca4bb709481f04b055f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e0aecdab433ed96b8449541c7a0933a') in 0.046789 seconds
-  Import took 0.053960 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000439 seconds.
-  path: Assets/Clothing System 3D/Models/Chibi/jumper.fbx
-  artifactKey: Guid(e8e00494ba9fb554daa23df2a3f6d171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Chibi/jumper.fbx using Guid(e8e00494ba9fb554daa23df2a3f6d171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1500e5fa250c38e9ab3e972a3fa15b0') in 0.077254 seconds
-  Import took 0.081737 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000359 seconds.
-  path: Assets/Clothing System 3D/Models/Chibi/pants.fbx
-  artifactKey: Guid(e0d6f094cbc420d47886a0a206c48594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Chibi/pants.fbx using Guid(e0d6f094cbc420d47886a0a206c48594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '311f50f0b28167d77c02534808cab181') in 0.070299 seconds
-  Import took 0.078162 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 194.593294 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale.fbx
-  artifactKey: Guid(6db04bc21c5245d428bf2464b5cc5376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale.fbx using Guid(6db04bc21c5245d428bf2464b5cc5376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbbdadf9f5aaf2c5d074dab6372f1c06') in 0.019198 seconds
-  Import took 0.025926 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000311 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@BowDeathA.fbx
-  artifactKey: Guid(a4bf9a2f44c3ddb4b85f34ad93ffc394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@BowDeathA.fbx using Guid(a4bf9a2f44c3ddb4b85f34ad93ffc394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc9ede2f7234110347354fcf2eba3116') in 0.015709 seconds
-  Import took 0.019757 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000351 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@DualDeathB.fbx
-  artifactKey: Guid(ad43e33e6457f824ca4198a3318fbb70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@DualDeathB.fbx using Guid(ad43e33e6457f824ca4198a3318fbb70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1467ec9abe6afd021c1a43466c429c2') in 0.018198 seconds
-  Import took 0.023673 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000312 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@BowWalkF.fbx
-  artifactKey: Guid(6c10c5c1153787c4e92706b547ab489f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@BowWalkF.fbx using Guid(6c10c5c1153787c4e92706b547ab489f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39bb09f6c6b2323ffe5483c3f9253db1') in 0.015618 seconds
-  Import took 0.022084 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000515 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@DualAttack.fbx
-  artifactKey: Guid(24d7ca3cbf009034c9923bd4d5903783) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@DualAttack.fbx using Guid(24d7ca3cbf009034c9923bd4d5903783) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1050d97b6300db7273aa5d27c860861') in 0.015235 seconds
-  Import took 0.024134 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000357 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@BowRunF.fbx
-  artifactKey: Guid(7ae385b6319c0a1429453f6d4ee84ccb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@BowRunF.fbx using Guid(7ae385b6319c0a1429453f6d4ee84ccb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '386da07d40bc83d7880d2f9c25c2fae5') in 0.013246 seconds
-  Import took 0.020403 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000562 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@DualDeathA.fbx
-  artifactKey: Guid(90e2e88c697b39d4f954f0d43f56826c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@DualDeathA.fbx using Guid(90e2e88c697b39d4f954f0d43f56826c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '744d8afe94dabacfd82d29724c61e13f') in 0.017919 seconds
-  Import took 0.024206 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000368 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@BowPain.fbx
-  artifactKey: Guid(2ee39e4ff82cb1043b29b7fbf967a70e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@BowPain.fbx using Guid(2ee39e4ff82cb1043b29b7fbf967a70e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb80c4e544b9012bd4e25445f3355b03') in 0.013784 seconds
-  Import took 0.021647 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000446 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@PistolDeathA.fbx
-  artifactKey: Guid(394315a075b7af449bc6811ed3fc50fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@PistolDeathA.fbx using Guid(394315a075b7af449bc6811ed3fc50fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '204ebd21cc50f5f6b9a82908b45432ad') in 0.022504 seconds
-  Import took 0.028157 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000503 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@2HCombatIdle.fbx
-  artifactKey: Guid(d75c3769895ed004298c2e2a3bcf765e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@2HCombatIdle.fbx using Guid(d75c3769895ed004298c2e2a3bcf765e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '521755dccd4854c425f5b6bcfa098835') in 0.015558 seconds
-  Import took 0.021533 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000357 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@DualDeathC.fbx
-  artifactKey: Guid(d91af45b2c6d8614788387d672d6c6b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@DualDeathC.fbx using Guid(d91af45b2c6d8614788387d672d6c6b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5710c843077de734639c17880e62824b') in 0.016987 seconds
-  Import took 0.023120 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000739 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@2HAttack.fbx
-  artifactKey: Guid(60e5ff459ad67d747ad145438155765a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@2HAttack.fbx using Guid(60e5ff459ad67d747ad145438155765a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db570aa5f9f17d5421536f6fe6f93baf') in 0.016425 seconds
-  Import took 0.023591 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000280 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@DualIdle.fbx
-  artifactKey: Guid(04222c71f59e6b045a768ba940e85793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@DualIdle.fbx using Guid(04222c71f59e6b045a768ba940e85793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c9ef6d9463b09748e09d3c77d42bc33') in 0.014724 seconds
-  Import took 0.019054 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000279 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@BowAttack.fbx
-  artifactKey: Guid(bb31d7727e2c7aa4ebcb3ef0726347e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@BowAttack.fbx using Guid(bb31d7727e2c7aa4ebcb3ef0726347e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c88d4f375c4a22aac7c2783fd652c48') in 0.012185 seconds
-  Import took 0.018644 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000445 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@2HDeathB.fbx
-  artifactKey: Guid(abe8499d91946e04e970c3b053d7a953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@2HDeathB.fbx using Guid(abe8499d91946e04e970c3b053d7a953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb17604d951c866030ab81aef9420b8a') in 0.018049 seconds
-  Import took 0.022635 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000318 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@BowCombatIdle.fbx
-  artifactKey: Guid(c19a8ab285bc0fb47942efcd29cd4b0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@BowCombatIdle.fbx using Guid(c19a8ab285bc0fb47942efcd29cd4b0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b3788361734e24e80ebe0d47d867fec') in 0.015140 seconds
-  Import took 0.020725 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000373 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@PistolAttack.fbx
-  artifactKey: Guid(579049baf8be6ce45a276705ff31894b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@PistolAttack.fbx using Guid(579049baf8be6ce45a276705ff31894b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd485645605a6cae2376350bbedd4fa1') in 0.016600 seconds
-  Import took 0.022903 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000280 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@1HCombatIdle.fbx
-  artifactKey: Guid(db789609ec8cd1e4488f277026c78a20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@1HCombatIdle.fbx using Guid(db789609ec8cd1e4488f277026c78a20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca0fd2aa30e788fcf6eac01e9900d67e') in 0.021934 seconds
-  Import took 0.028647 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000350 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@2HDeathA.fbx
-  artifactKey: Guid(7e5f848ee4eb2af45b2d37d0904dbb8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@2HDeathA.fbx using Guid(7e5f848ee4eb2af45b2d37d0904dbb8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc6073dd4ff8818c0280a42b3a4e2d17') in 0.016357 seconds
-  Import took 0.023719 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000449 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@2HWalkF.fbx
-  artifactKey: Guid(da7f680d0f0ae3c459f2ddda2c1db010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@2HWalkF.fbx using Guid(da7f680d0f0ae3c459f2ddda2c1db010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59d8bd0b4134d4ee88baa1174828ea47') in 0.013025 seconds
-  Import took 0.019162 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000390 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@1HDeathC.fbx
-  artifactKey: Guid(57c81318825d35a40aaff7519e8ba770) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@1HDeathC.fbx using Guid(57c81318825d35a40aaff7519e8ba770) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b59c319e33f0782c5b17c4723bbf7f1') in 0.019021 seconds
-  Import took 0.026479 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000300 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@1HDeathA.fbx
-  artifactKey: Guid(8f9fa9b92f0028845a5ec1fe695b0b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@1HDeathA.fbx using Guid(8f9fa9b92f0028845a5ec1fe695b0b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e69666ab92a5d31be3060f04a0e7906') in 0.011819 seconds
-  Import took 0.016932 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000325 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@DualCombatIdle.fbx
-  artifactKey: Guid(ff6ec111e0e8fbb4981e06e337c79bbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@DualCombatIdle.fbx using Guid(ff6ec111e0e8fbb4981e06e337c79bbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9bf01c57ce01d5731dc52fde272148f') in 0.012991 seconds
-  Import took 0.023580 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000631 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@PistolIdle.fbx
-  artifactKey: Guid(f284a5874947b264b991eacfcd472106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@PistolIdle.fbx using Guid(f284a5874947b264b991eacfcd472106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16c918bbab188dc498f097f187fe1187') in 0.014491 seconds
-  Import took 0.023787 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000494 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@1HAttack.fbx
-  artifactKey: Guid(2decfbd282a88ec46b0d0c4aa37b96fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@1HAttack.fbx using Guid(2decfbd282a88ec46b0d0c4aa37b96fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0baa45fae83fde751598c9cbb33f9c66') in 0.016230 seconds
-  Import took 0.026006 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000410 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@BowDeathB.fbx
-  artifactKey: Guid(e86d40a9b4c214b4aac84829bde2b5c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@BowDeathB.fbx using Guid(e86d40a9b4c214b4aac84829bde2b5c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6df6077e6a3318321f95a5ce6369ddfb') in 0.021091 seconds
-  Import took 0.028332 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000471 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@DualPain.fbx
-  artifactKey: Guid(9cb84829b67cb0f45a9252d670f24435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@DualPain.fbx using Guid(9cb84829b67cb0f45a9252d670f24435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17dad42bb603f46bf6f38fdb252f516f') in 0.013434 seconds
-  Import took 0.021879 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000386 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@2HCombatRunF.fbx
-  artifactKey: Guid(6159abd4343a5d244a08720e789c58be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@2HCombatRunF.fbx using Guid(6159abd4343a5d244a08720e789c58be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfd008b02eba86d1c2143ce8a479e28f') in 0.016312 seconds
-  Import took 0.023627 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000391 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@PistolDeathC.fbx
-  artifactKey: Guid(05350543c701ea048824d7659afa47c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@PistolDeathC.fbx using Guid(05350543c701ea048824d7659afa47c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e212bc6bb64a5a810bb35754eba20d3d') in 0.017754 seconds
-  Import took 0.027400 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000774 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@2HDeathC.fbx
-  artifactKey: Guid(49d4fcc68e69a554fa1f08bba7e43ce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@2HDeathC.fbx using Guid(49d4fcc68e69a554fa1f08bba7e43ce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58f3268dc463d1828010291e4dd9b7e2') in 0.014803 seconds
-  Import took 0.021387 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000362 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@DualCombatRunF.fbx
-  artifactKey: Guid(e5a8692419a080146a562db578ab9d3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@DualCombatRunF.fbx using Guid(e5a8692419a080146a562db578ab9d3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45a5b5e057edfeda414cd2182f3136e3') in 0.021583 seconds
-  Import took 0.028392 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000320 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@PistolCombatIdle.fbx
-  artifactKey: Guid(b30b1a7faa9cce6439c73704272ffddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@PistolCombatIdle.fbx using Guid(b30b1a7faa9cce6439c73704272ffddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf2650833b1b3b3273606aedc5805870') in 0.018441 seconds
-  Import took 0.027835 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000413 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@1HCombatRunF.fbx
-  artifactKey: Guid(31842cafe20fc6b4caa71e36c29c5655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@1HCombatRunF.fbx using Guid(31842cafe20fc6b4caa71e36c29c5655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74971772fa9225d6790ccfe5eb23e46a') in 0.019078 seconds
-  Import took 0.027394 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000436 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@BowDeathC.fbx
-  artifactKey: Guid(a1ce2c943b5ce9e449d8dd0dcb54b2e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@BowDeathC.fbx using Guid(a1ce2c943b5ce9e449d8dd0dcb54b2e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec7ee7927d5cf99d8edf03015737ba78') in 0.015389 seconds
-  Import took 0.024038 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000334 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@PistolDeathB.fbx
-  artifactKey: Guid(19053effcc4e3874ba9fa41629127733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@PistolDeathB.fbx using Guid(19053effcc4e3874ba9fa41629127733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c330b31ec6b2515bddf971f5a5d0eade') in 0.019088 seconds
-  Import took 0.026753 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000639 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@1HIdle.fbx
-  artifactKey: Guid(118f38518c1b50b458babc22766288b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@1HIdle.fbx using Guid(118f38518c1b50b458babc22766288b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd8b93c82477ec3297b59b7f704c9eb0') in 0.021105 seconds
-  Import took 0.030135 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000307 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@1HWalkF.fbx
-  artifactKey: Guid(18f7f237528712b41a3ab9e0359c80e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@1HWalkF.fbx using Guid(18f7f237528712b41a3ab9e0359c80e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '322f54fc7fb6a37f868fa4eb685d39ab') in 0.014124 seconds
-  Import took 0.023757 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000305 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@PistolCombatRunF.fbx
-  artifactKey: Guid(be1ca70ec43b0f24892d6f8cba83e976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@PistolCombatRunF.fbx using Guid(be1ca70ec43b0f24892d6f8cba83e976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1649f29c50ea46c9a79c16b7dc5ea9f0') in 0.017910 seconds
-  Import took 0.024054 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000320 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@BowIdle.fbx
-  artifactKey: Guid(9685923cd12e8d54f80927a9d6eabc81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@BowIdle.fbx using Guid(9685923cd12e8d54f80927a9d6eabc81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bc8faade32ca02c0ff785871e6f4a07') in 0.015762 seconds
-  Import took 0.025499 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000828 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@1HPain.fbx
-  artifactKey: Guid(bf1c78b71e1452f4f8514aaae7093f41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@1HPain.fbx using Guid(bf1c78b71e1452f4f8514aaae7093f41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69b5d1d9d0cb494093fef5bebe05a1a2') in 0.020013 seconds
-  Import took 0.028983 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000365 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@2HPain.fbx
-  artifactKey: Guid(cc317a50a81864345a7652fb8b949015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@2HPain.fbx using Guid(cc317a50a81864345a7652fb8b949015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18abb23c6c72d3c0c879a6840970154e') in 0.015436 seconds
-  Import took 0.021477 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000420 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@1HDeathB.fbx
-  artifactKey: Guid(ec2c4a3c872fff240a13486e79b7e30a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@1HDeathB.fbx using Guid(ec2c4a3c872fff240a13486e79b7e30a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b26a4e2fdd3121c9f04ebcc147e1d10') in 0.021233 seconds
-  Import took 0.030329 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000301 seconds.
-  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@2HIdle.fbx
-  artifactKey: Guid(064995c1a93a49943a958c776e9e913e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@2HIdle.fbx using Guid(064995c1a93a49943a958c776e9e913e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49cc527a5eccd92439a2bfe6cd6f0996') in 0.016527 seconds
-  Import took 0.023963 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 308.519184 seconds.
-  path: Assets/Clothing System 3D/Materials/floor.mat
-  artifactKey: Guid(99969f2fa4e498d4ea50691ea39647c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Materials/floor.mat using Guid(99969f2fa4e498d4ea50691ea39647c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb169fd6d4f8442e1923bd0997e1d225') in 0.310494 seconds
-  Import took 0.316890 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000400 seconds.
-  path: Assets/Clothing System 3D/Materials/Skybox.mat
-  artifactKey: Guid(7a7b86a15b58ff54ca91fef13e981505) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Materials/Skybox.mat using Guid(7a7b86a15b58ff54ca91fef13e981505) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc548020b65f51b0bf2fecc69161d687') in 0.045952 seconds
-  Import took 0.054022 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000399 seconds.
-  path: Assets/Clothing System 3D/Materials/mummy.mat
-  artifactKey: Guid(0c1a9a95442c29a4d87cad3c2a8d92cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Materials/mummy.mat using Guid(0c1a9a95442c29a4d87cad3c2a8d92cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25e84fbdca8339f698b4679ad9b6bacd') in 0.060922 seconds
-  Import took 0.069985 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.600628 seconds.
-  path: Assets/Clothing System 3D/Materials/chibi
-  artifactKey: Guid(03d5cfab7e277fd418c14d245cea6236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Materials/chibi using Guid(03d5cfab7e277fd418c14d245cea6236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e94f5c4f616d2f858674291a945a6a91') in 0.002238 seconds
-  Import took 0.011239 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.112323 seconds.
-  path: Assets/Clothing System 3D/Materials/chibi/hair_blonde.mat
-  artifactKey: Guid(853cd604bc394c049a448281bf780594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Materials/chibi/hair_blonde.mat using Guid(853cd604bc394c049a448281bf780594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '700d5787d21e64f1ade1fdfbf125d298') in 0.021934 seconds
-  Import took 0.028943 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000409 seconds.
-  path: Assets/Clothing System 3D/Materials/chibi/hair_red.mat
-  artifactKey: Guid(14404df511a68f74bb98b549b2d9c26c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Materials/chibi/hair_red.mat using Guid(14404df511a68f74bb98b549b2d9c26c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6541bcfbe9b50aba6747ead1eb5b9e7c') in 0.024633 seconds
-  Import took 0.031291 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000457 seconds.
-  path: Assets/Clothing System 3D/Materials/chibi/sneakers_red.mat
-  artifactKey: Guid(0fe914e2a9eadce40a1fbf3cac7e7235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Materials/chibi/sneakers_red.mat using Guid(0fe914e2a9eadce40a1fbf3cac7e7235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25728b10aaac62c4b4b5ff1215cab8b2') in 0.033949 seconds
-  Import took 0.039892 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000700 seconds.
-  path: Assets/Clothing System 3D/Materials/chibi/wintercap_red.mat
-  artifactKey: Guid(1d0a964f57818b04ebb4cf8dd1bfe83b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Materials/chibi/wintercap_red.mat using Guid(1d0a964f57818b04ebb4cf8dd1bfe83b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9297149ab0cca01c76eeb3ccefb11390') in 0.027533 seconds
-  Import took 0.034972 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000728 seconds.
-  path: Assets/Clothing System 3D/Materials/chibi/tshirt_catears.mat
-  artifactKey: Guid(41d2a330b70107b43b420139c483c42f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Materials/chibi/tshirt_catears.mat using Guid(41d2a330b70107b43b420139c483c42f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58bd5cd06874f2c588d4e8a99fe15c8a') in 0.019965 seconds
-  Import took 0.025701 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000312 seconds.
-  path: Assets/Clothing System 3D/Materials/chibi/pants_caqui.mat
-  artifactKey: Guid(57357bbe787414a4693f99c1b6f4016f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Materials/chibi/pants_caqui.mat using Guid(57357bbe787414a4693f99c1b6f4016f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93098b231862afeca929146216ccf7bf') in 0.042030 seconds
-  Import took 0.047394 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000377 seconds.
-  path: Assets/Clothing System 3D/Materials/chibi/tshirt_pink.mat
-  artifactKey: Guid(0f33a33a96d3589408239b6a3c5d2e5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Materials/chibi/tshirt_pink.mat using Guid(0f33a33a96d3589408239b6a3c5d2e5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40bfc1a7a90ff5328e69ad0033be2219') in 0.043757 seconds
-  Import took 0.050006 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000364 seconds.
-  path: Assets/Clothing System 3D/Materials/chibi/shorts_red.mat
-  artifactKey: Guid(1f03f367d354e23438551b06b96bdb89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Materials/chibi/shorts_red.mat using Guid(1f03f367d354e23438551b06b96bdb89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6227babc8af71056bd03d8f90fe3839') in 0.040794 seconds
-  Import took 0.046605 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000316 seconds.
-  path: Assets/Clothing System 3D/Materials/chibi/tshirt_orange.mat
-  artifactKey: Guid(3f2a354ed1f0e6542bfe3d17d232709a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Materials/chibi/tshirt_orange.mat using Guid(3f2a354ed1f0e6542bfe3d17d232709a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df9d382e65f568ca8cd179a9505d975a') in 0.042724 seconds
-  Import took 0.048383 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000362 seconds.
-  path: Assets/Clothing System 3D/Materials/chibi/robe_gray.mat
-  artifactKey: Guid(a5504f5e1d1852143804612f3384b84f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Materials/chibi/robe_gray.mat using Guid(a5504f5e1d1852143804612f3384b84f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7d49fc86b4842f9d8ac067c1603abf8') in 0.044383 seconds
-  Import took 0.053708 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000483 seconds.
-  path: Assets/Clothing System 3D/Materials/chibi/shorts_blue.mat
-  artifactKey: Guid(0855cd481cbe41e4f886e7659ec703a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Materials/chibi/shorts_blue.mat using Guid(0855cd481cbe41e4f886e7659ec703a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ce2d717445a8d074dc8626f724f1c70') in 0.060959 seconds
-  Import took 0.068003 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000358 seconds.
-  path: Assets/Clothing System 3D/Materials/chibi/hair_brown.mat
-  artifactKey: Guid(25a75a529951bcd478c81f177788aaf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Materials/chibi/hair_brown.mat using Guid(25a75a529951bcd478c81f177788aaf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a46239a163346c1196621cb2a19c855a') in 0.041028 seconds
-  Import took 0.050123 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000341 seconds.
-  path: Assets/Clothing System 3D/Materials/chibi/pants_blue.mat
-  artifactKey: Guid(826c687fc8016c846b62f2b327e89e85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Materials/chibi/pants_blue.mat using Guid(826c687fc8016c846b62f2b327e89e85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31ae09ead058575b5361efb62dd02a5b') in 0.060158 seconds
-  Import took 0.065605 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000365 seconds.
-  path: Assets/Clothing System 3D/Materials/chibi/jumper_red.mat
-  artifactKey: Guid(077676924ea791c4ea1b2d07093db502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Materials/chibi/jumper_red.mat using Guid(077676924ea791c4ea1b2d07093db502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df39ed241ea8077f292f3fc11bde8dfe') in 0.056420 seconds
-  Import took 0.064329 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000350 seconds.
-  path: Assets/Clothing System 3D/Materials/chibi/jumper_black.mat
-  artifactKey: Guid(837cdb8e4f5cade40a292ffda7a833c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Materials/chibi/jumper_black.mat using Guid(837cdb8e4f5cade40a292ffda7a833c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8d5482492bf9b82fb805efc56f850f8') in 0.032516 seconds
-  Import took 0.038911 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000374 seconds.
-  path: Assets/Clothing System 3D/Materials/chibi/jumper_red.mat
-  artifactKey: Guid(077676924ea791c4ea1b2d07093db502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Materials/chibi/jumper_red.mat using Guid(077676924ea791c4ea1b2d07093db502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df39ed241ea8077f292f3fc11bde8dfe') in 0.018692 seconds
-  Import took 0.030102 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001640 seconds.
-  path: Assets/Clothing System 3D/Materials/chibi/shorts_black.mat
-  artifactKey: Guid(0985a7b2a63d0a042b34e7ceaa5c51bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Materials/chibi/shorts_black.mat using Guid(0985a7b2a63d0a042b34e7ceaa5c51bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccd09388310293f71a13de3fda2b6832') in 0.030102 seconds
-  Import took 0.037330 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 16.833989 seconds.
-  path: Assets/Clothing System 3D/Models/Materials/eye.mat
-  artifactKey: Guid(6215efaa10d006d49b96672739cfc8f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Materials/eye.mat using Guid(6215efaa10d006d49b96672739cfc8f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fc55fab02ab542f4dd605ca15f71d58') in 0.019586 seconds
-  Import took 0.027190 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000332 seconds.
-  path: Assets/Clothing System 3D/Models/Materials/f_feet.mat
-  artifactKey: Guid(c73e94af04366a5479879d2938cdeea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Materials/f_feet.mat using Guid(c73e94af04366a5479879d2938cdeea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8132c05b293a70600edeb4092296ed2e') in 0.024209 seconds
-  Import took 0.029719 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000374 seconds.
-  path: Assets/Clothing System 3D/Models/Materials/f_hands.mat
-  artifactKey: Guid(14048c154b37df44badd6219de11cc79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Materials/f_hands.mat using Guid(14048c154b37df44badd6219de11cc79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff2351f322102c03826c2d4eaf8465e9') in 0.028666 seconds
-  Import took 0.034716 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000385 seconds.
-  path: Assets/Clothing System 3D/Models/Materials/feet.mat
-  artifactKey: Guid(90c7b10da8fea1041a3aaf7e53e7e71f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Materials/feet.mat using Guid(90c7b10da8fea1041a3aaf7e53e7e71f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37798c45540a247a714e35620ada141e') in 0.017896 seconds
-  Import took 0.022651 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000311 seconds.
-  path: Assets/Clothing System 3D/Models/Materials/head.mat
-  artifactKey: Guid(940ce0f3a8da7414dba4c329ddef91fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Materials/head.mat using Guid(940ce0f3a8da7414dba4c329ddef91fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b82633d34ea31fba0a3f23cda1dc440c') in 0.019818 seconds
-  Import took 0.024609 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000292 seconds.
-  path: Assets/Clothing System 3D/Models/Materials/Material #10.mat
-  artifactKey: Guid(93e82f0930365d745b2737317828ee2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Materials/Material #10.mat using Guid(93e82f0930365d745b2737317828ee2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3edb46d0474d585797062fe1babf47a') in 0.026000 seconds
-  Import took 0.032057 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000566 seconds.
-  path: Assets/Clothing System 3D/Models/Materials/f_lower_body.mat
-  artifactKey: Guid(9b64edd1f6c674246989cc7e18163554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Materials/f_lower_body.mat using Guid(9b64edd1f6c674246989cc7e18163554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2bc75a4082127698b986ddc36424bc2') in 0.046783 seconds
-  Import took 0.053365 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000305 seconds.
-  path: Assets/Clothing System 3D/Models/Materials/lower_body.mat
-  artifactKey: Guid(eaecf49849d64534abecb4343ad00a16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Materials/lower_body.mat using Guid(eaecf49849d64534abecb4343ad00a16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7024345df968f0a75d46b7f96e4666a6') in 0.018097 seconds
-  Import took 0.021949 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000304 seconds.
-  path: Assets/Clothing System 3D/Models/Materials/hands.mat
-  artifactKey: Guid(76223e318a654e14baaa82165284c9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Materials/hands.mat using Guid(76223e318a654e14baaa82165284c9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58eb5df4ce1625ce01bb580a14d5fce9') in 0.044341 seconds
-  Import took 0.050154 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000321 seconds.
-  path: Assets/Clothing System 3D/Models/Materials/upper_body.mat
-  artifactKey: Guid(9eef2c20ecd5fa54f9490a51cdb971e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Materials/upper_body.mat using Guid(9eef2c20ecd5fa54f9490a51cdb971e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd288322cf3b2adec7f3a693046c7d67') in 0.016508 seconds
-  Import took 0.024477 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000362 seconds.
-  path: Assets/Clothing System 3D/Models/Materials/f_head.mat
-  artifactKey: Guid(1ae3125fd71f6fd40a8de962bceafb1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Materials/f_head.mat using Guid(1ae3125fd71f6fd40a8de962bceafb1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0f1729959f2006a503653c8efbbb7c6') in 0.026979 seconds
-  Import took 0.034893 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000802 seconds.
-  path: Assets/Clothing System 3D/Models/Materials/f_upper_body.mat
-  artifactKey: Guid(d2945406aadb6934dad957c32f61e262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Materials/f_upper_body.mat using Guid(d2945406aadb6934dad957c32f61e262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc9df9bc3dc526ccb052a9dac9ce37c8') in 0.019340 seconds
-  Import took 0.027385 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 39.944898 seconds.
-  path: Assets/Clothing System 3D/Models/Clothes/female_boots.fbx
-  artifactKey: Guid(ac1cf76076ebc514e8f27c0e5ac8f804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Clothes/female_boots.fbx using Guid(ac1cf76076ebc514e8f27c0e5ac8f804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91fec3abea35555f5d6f76848b1f0f03') in 0.054249 seconds
-  Import took 0.061148 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000387 seconds.
-  path: Assets/Clothing System 3D/Models/Clothes/female_skirt.fbx
-  artifactKey: Guid(b8da1c66b77311e40bd94ee40fa55164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Clothes/female_skirt.fbx using Guid(b8da1c66b77311e40bd94ee40fa55164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6fcf8b0912160ad25bc7cd430207864') in 0.087476 seconds
-  Import took 0.091762 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000458 seconds.
-  path: Assets/Clothing System 3D/Models/Clothes/shirt.fbx
-  artifactKey: Guid(5e53b4482288d864f84ebd36aa72bad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Clothes/shirt.fbx using Guid(5e53b4482288d864f84ebd36aa72bad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59a12e25a2988a0193d98575b29ebd1f') in 0.079908 seconds
-  Import took 0.086551 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000360 seconds.
-  path: Assets/Clothing System 3D/Models/Clothes/female_mummy.fbx
-  artifactKey: Guid(c50b44b7a3e6df347999ad124c42f265) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Clothes/female_mummy.fbx using Guid(c50b44b7a3e6df347999ad124c42f265) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7085b30689fa027617bc3460f26d29c') in 0.105268 seconds
-  Import took 0.109649 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000328 seconds.
-  path: Assets/Clothing System 3D/Models/Clothes/panda.fbx
-  artifactKey: Guid(b91d60f31098dc445adef0d4a9f64ddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Clothes/panda.fbx using Guid(b91d60f31098dc445adef0d4a9f64ddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8daf4c6d85e45131fd55fec1cb3a4ec') in 0.056825 seconds
-  Import took 0.064232 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000398 seconds.
-  path: Assets/Clothing System 3D/Models/Clothes/male_mummy.fbx
-  artifactKey: Guid(a12cfec470ed19d409634099a10b0bf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Clothes/male_mummy.fbx using Guid(a12cfec470ed19d409634099a10b0bf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '614554ab14a8e9099c6426b2734daf08') in 0.106174 seconds
-  Import took 0.112255 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000335 seconds.
-  path: Assets/Clothing System 3D/Models/Clothes/pants.fbx
-  artifactKey: Guid(4818bc89cb61194438ab91d868b4d6bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Clothes/pants.fbx using Guid(4818bc89cb61194438ab91d868b4d6bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89647aa5699c359492875b1bd0d73618') in 0.068981 seconds
-  Import took 0.073375 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000260 seconds.
-  path: Assets/Clothing System 3D/Models/Clothes/shoes.fbx
-  artifactKey: Guid(4ae5dadee2b562347b893084841c9192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Clothes/shoes.fbx using Guid(4ae5dadee2b562347b893084841c9192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58cb2932a21f408bccccef2c4e2d53bd') in 0.071246 seconds
-  Import took 0.078200 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000387 seconds.
-  path: Assets/Clothing System 3D/Models/Clothes/female_shirt.fbx
-  artifactKey: Guid(2040ff0e70decf84aa609bd650877ef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Clothes/female_shirt.fbx using Guid(2040ff0e70decf84aa609bd650877ef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d0bf51cfd7a86c3554d8d798cb2d3d1') in 0.088056 seconds
-  Import took 0.092694 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000434 seconds.
-  path: Assets/Clothing System 3D/Models/Clothes/sheriff_hat.fbx
-  artifactKey: Guid(e45a37e189634bf488d742dfcfa7c085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Clothes/sheriff_hat.fbx using Guid(e45a37e189634bf488d742dfcfa7c085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b005b9d091e8d1b8efda360f81512d51') in 0.061408 seconds
-  Import took 0.066002 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.920201 seconds.
-  path: Assets/Clothing System 3D/Models/Chibi/Materials
-  artifactKey: Guid(3981d70f324111c44b87a4734b8611d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Chibi/Materials using Guid(3981d70f324111c44b87a4734b8611d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc415a095ffa6da39c06ed441bc273b7') in 0.002423 seconds
-  Import took 0.011560 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.108228 seconds.
-  path: Assets/Clothing System 3D/Models/Chibi/Materials/body_lower.mat
-  artifactKey: Guid(80c9f35b2aff3fc4fb2a14f5467a6c41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Chibi/Materials/body_lower.mat using Guid(80c9f35b2aff3fc4fb2a14f5467a6c41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b692648720ac01294a511469151d1a1') in 0.016569 seconds
-  Import took 0.024386 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000529 seconds.
-  path: Assets/Clothing System 3D/Models/Chibi/Materials/pants.mat
-  artifactKey: Guid(9124a023982427b45b345cd1e4581ef1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Chibi/Materials/pants.mat using Guid(9124a023982427b45b345cd1e4581ef1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30d3c99a8e90b68aeb8acfcc55ac64d9') in 0.016676 seconds
-  Import took 0.021127 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000372 seconds.
-  path: Assets/Clothing System 3D/Models/Chibi/Materials/hair.mat
-  artifactKey: Guid(db4f82e8671a83d4e9ced34c74daf7da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Chibi/Materials/hair.mat using Guid(db4f82e8671a83d4e9ced34c74daf7da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19717e67588284c8c523c232ecebc5cb') in 0.030348 seconds
-  Import took 0.039477 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000298 seconds.
-  path: Assets/Clothing System 3D/Models/Chibi/Materials/shorts.mat
-  artifactKey: Guid(f90a02d258da32247843c492c0c10fe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Chibi/Materials/shorts.mat using Guid(f90a02d258da32247843c492c0c10fe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7e75aa5b094973008b2122d73d7a741') in 0.022547 seconds
-  Import took 0.029981 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000526 seconds.
-  path: Assets/Clothing System 3D/Models/Chibi/Materials/tshirt.mat
-  artifactKey: Guid(5d128c0671c26d14f9cea196e460e225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Chibi/Materials/tshirt.mat using Guid(5d128c0671c26d14f9cea196e460e225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30c0ef9b125daf6513a0087007a25439') in 0.015698 seconds
-  Import took 0.021886 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000329 seconds.
-  path: Assets/Clothing System 3D/Models/Chibi/Materials/robes.mat
-  artifactKey: Guid(d020ce0d311da0148a0ccaab14174f73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Chibi/Materials/robes.mat using Guid(d020ce0d311da0148a0ccaab14174f73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '111a2fff6b86db55b5c2d238c9c0d959') in 0.017716 seconds
-  Import took 0.023605 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000313 seconds.
-  path: Assets/Clothing System 3D/Models/Chibi/Materials/jumper.mat
-  artifactKey: Guid(d7b7fc77ce65692489cc862d4c1f6584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Chibi/Materials/jumper.mat using Guid(d7b7fc77ce65692489cc862d4c1f6584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3578428a36ed378f2aac3f88fdd0d45') in 0.018923 seconds
-  Import took 0.023082 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000413 seconds.
-  path: Assets/Clothing System 3D/Models/Chibi/Materials/sneakers.mat
-  artifactKey: Guid(ddbdbc2b654a40640898514e11742d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Chibi/Materials/sneakers.mat using Guid(ddbdbc2b654a40640898514e11742d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f144031910863a5af6ca2b267608a09') in 0.018853 seconds
-  Import took 0.024215 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000396 seconds.
-  path: Assets/Clothing System 3D/Models/Chibi/Materials/shoes.mat
-  artifactKey: Guid(05553e813b5e1204180e76cdb3d60652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Chibi/Materials/shoes.mat using Guid(05553e813b5e1204180e76cdb3d60652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4440a752134a99af401b5552ff9acc76') in 0.044392 seconds
-  Import took 0.050847 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 108.339173 seconds.
-  path: Assets/Christmas-Presents/FBX/Present.fbx
-  artifactKey: Guid(1cda905d0776c754199e04be35b19f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Christmas-Presents/FBX/Present.fbx using Guid(1cda905d0776c754199e04be35b19f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0642d071ce2125eeb8f78efc4d7d8c9') in 0.041414 seconds
-  Import took 0.048416 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000353 seconds.
-  path: Assets/Standard Assets/Prototyping/Models/PlatformPrototype08x01x08.fbx
-  artifactKey: Guid(879dd62cbfd65314d812354e257fc5cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/Prototyping/Models/PlatformPrototype08x01x08.fbx using Guid(879dd62cbfd65314d812354e257fc5cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53d650deb101f2e32f1ef17824108236') in 0.079071 seconds
-  Import took 0.087084 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001599 seconds.
-  path: Assets/Standard Assets/Prototyping/Models/PlatformPrototype02x01x02.fbx
-  artifactKey: Guid(38a9d3cc5c1e0aa4f92ff3445b73ed7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/Prototyping/Models/PlatformPrototype02x01x02.fbx using Guid(38a9d3cc5c1e0aa4f92ff3445b73ed7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99ef208d41ede489fa6a1809d990cadf') in 0.028018 seconds
-  Import took 0.036369 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000327 seconds.
-  path: Assets/Standard Assets/Prototyping/Models/PlatformPrototype04x01x04.fbx
-  artifactKey: Guid(bc2ed85df3924a4458576f17e8b10057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/Prototyping/Models/PlatformPrototype04x01x04.fbx using Guid(bc2ed85df3924a4458576f17e8b10057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eede4e901c875f0e92a89a8bf3b02d84') in 0.066656 seconds
-  Import took 0.072853 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000281 seconds.
-  path: Assets/Standard Assets/Prototyping/Models/RampPrototype04x02x02.fbx
-  artifactKey: Guid(b9d7ac1a0f551404f8d32e1e02b64325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/Prototyping/Models/RampPrototype04x02x02.fbx using Guid(b9d7ac1a0f551404f8d32e1e02b64325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e95b61351b5ecf0f2aa0c5bf2dac146a') in 0.029701 seconds
-  Import took 0.034950 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.117379 seconds.
-  path: Assets/Standard Assets/Effects/TessellationShaders/Models/LowPolySphere.fbx
-  artifactKey: Guid(103612e5e1ff43a4e896c567a2cb3ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/Effects/TessellationShaders/Models/LowPolySphere.fbx using Guid(103612e5e1ff43a4e896c567a2cb3ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6576967a0a8eaf54502618da0eeb76c9') in 0.029535 seconds
-  Import took 0.035156 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.567430 seconds.
-  path: Assets/Standard Assets/Prototyping/Models/JoinInnerPrototype01x06x01.fbx
-  artifactKey: Guid(f45b6695d6226cd48abfc605723cc3ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/Prototyping/Models/JoinInnerPrototype01x06x01.fbx using Guid(f45b6695d6226cd48abfc605723cc3ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbb0b60e222b2de88ac5386dfd4759f3') in 0.043705 seconds
-  Import took 0.048986 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000517 seconds.
-  path: Assets/Standard Assets/Prototyping/Models/HousePrototype16x16x24.fbx
-  artifactKey: Guid(ce7348d724aa0fc44aaf53391b9bae9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/Prototyping/Models/HousePrototype16x16x24.fbx using Guid(ce7348d724aa0fc44aaf53391b9bae9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cc4ed214a0530f7b4ca734c0cea951b') in 0.027035 seconds
-  Import took 0.034112 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000389 seconds.
-  path: Assets/Standard Assets/Prototyping/Models/JoinMidPrototype04x06x01.fbx
-  artifactKey: Guid(40384240c1c82b94db82531689571ab0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/Prototyping/Models/JoinMidPrototype04x06x01.fbx using Guid(40384240c1c82b94db82531689571ab0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4418ca45fc510ff1d28867a55238c472') in 0.042948 seconds
-  Import took 0.050502 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000728 seconds.
-  path: Assets/Standard Assets/Prototyping/Models/JoinOuterPrototype02x06x02.fbx
-  artifactKey: Guid(6386a10e23c45d040a22051e6ae3b70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/Prototyping/Models/JoinOuterPrototype02x06x02.fbx using Guid(6386a10e23c45d040a22051e6ae3b70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ed996e3e4c78865145a2600ec30e7e8') in 0.030649 seconds
-  Import took 0.037254 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.239017 seconds.
-  path: Assets/Standard Assets/Prototyping/Models/FloorPrototype08x01x08.fbx
-  artifactKey: Guid(16fb769c0394c36469ed40a4f35c1eec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/Prototyping/Models/FloorPrototype08x01x08.fbx using Guid(16fb769c0394c36469ed40a4f35c1eec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24af9defeb4b192c8427ea42a7229952') in 0.026972 seconds
-  Import took 0.032624 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000281 seconds.
-  path: Assets/Standard Assets/Prototyping/Models/FloorPrototype64x01x64.fbx
-  artifactKey: Guid(fadddc63520db414bbc9126cbf4743ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/Prototyping/Models/FloorPrototype64x01x64.fbx using Guid(fadddc63520db414bbc9126cbf4743ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd14bd5adf0f91384f3ee776c4a741a82') in 0.030521 seconds
-  Import took 0.036288 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000444 seconds.
-  path: Assets/Standard Assets/Prototyping/Models/FloorPrototype08x01x08.fbx
-  artifactKey: Guid(16fb769c0394c36469ed40a4f35c1eec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/Prototyping/Models/FloorPrototype08x01x08.fbx using Guid(16fb769c0394c36469ed40a4f35c1eec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24af9defeb4b192c8427ea42a7229952') in 0.032185 seconds
-  Import took 0.039054 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000331 seconds.
-  path: Assets/Standard Assets/Prototyping/Models/FloorPrototype04x01x04.fbx
-  artifactKey: Guid(080bc076ed19adb4091adca05de83d66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/Prototyping/Models/FloorPrototype04x01x04.fbx using Guid(080bc076ed19adb4091adca05de83d66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e42d812fa86eab024eae6c836f79e05') in 0.026169 seconds
-  Import took 0.032277 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.313045 seconds.
-  path: Assets/Standard Assets/Prototyping/Models/CubePrototype02x02x02.fbx
-  artifactKey: Guid(df4796b594b970842b69211cb0078c5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/Prototyping/Models/CubePrototype02x02x02.fbx using Guid(df4796b594b970842b69211cb0078c5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '388c24705bab85d69ff9a48afcb2b6b6') in 0.032658 seconds
-  Import took 0.039435 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000431 seconds.
-  path: Assets/Standard Assets/Prototyping/Models/CubePrototype04x04x04.fbx
-  artifactKey: Guid(3f79402ff4ca9c54d96a09d1a77540d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/Prototyping/Models/CubePrototype04x04x04.fbx using Guid(3f79402ff4ca9c54d96a09d1a77540d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25a9c074ef4adb5459d3e86e020c4da9') in 0.031202 seconds
-  Import took 0.038697 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.021182 seconds.
-  path: Assets/Standard Assets/Prototyping/Models/CubePrototype08x08x08.fbx
-  artifactKey: Guid(c09052c9b19f0ea4987bc4f4f981252f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/Prototyping/Models/CubePrototype08x08x08.fbx using Guid(c09052c9b19f0ea4987bc4f4f981252f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16c55cca6036982d8341369942ac85b0') in 0.040361 seconds
-  Import took 0.048551 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.038107 seconds.
-  path: Assets/Christmas-Presents/FBX/Christmas-Ball.fbx
-  artifactKey: Guid(4b0f5f4d0e1459247992f9874f5523d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Christmas-Presents/FBX/Christmas-Ball.fbx using Guid(4b0f5f4d0e1459247992f9874f5523d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b54d6f70ecf486306ac434bf1c86f5c8') in 0.032468 seconds
-  Import took 0.042304 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.033062 seconds.
-  path: Assets/Christmas-Presents/FBX/Candy-Cane.fbx
-  artifactKey: Guid(b836073c6cab63d4cbe80ae0d4326cd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Christmas-Presents/FBX/Candy-Cane.fbx using Guid(b836073c6cab63d4cbe80ae0d4326cd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a68e15fd03ada092f417c7839aaeed1e') in 0.029703 seconds
-  Import took 0.037157 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.145446 seconds.
-  path: Assets/Standard Assets/Prototyping/Models/BlockPrototype04x04x04.fbx
-  artifactKey: Guid(622a87b3379022740be7e2efea3ebd33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/Prototyping/Models/BlockPrototype04x04x04.fbx using Guid(622a87b3379022740be7e2efea3ebd33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8186a302078d92e2b193a70cbd427d02') in 0.025571 seconds
-  Import took 0.033450 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.097231 seconds.
-  path: Assets/3DTOYS/among_us_obj/among us + turbosmooth 1.obj
-  artifactKey: Guid(347c527e5f6d14e30bcc05a4146634d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/3DTOYS/among_us_obj/among us + turbosmooth 1.obj using Guid(347c527e5f6d14e30bcc05a4146634d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bac617b288a433087b8f249b5aa31d9') in 4.915845 seconds
-  Import took 4.923413 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000411 seconds.
-  path: Assets/3DTOYS/among_us_obj/among us.obj
-  artifactKey: Guid(e2bb451367dbd45628d0df13812ece5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/3DTOYS/among_us_obj/among us.obj using Guid(e2bb451367dbd45628d0df13812ece5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '868f09556817255c30a971e736d87d99') in 0.054450 seconds
-  Import took 0.060907 seconds .
+  path: Assets/Scenes/ChatScene.unity
+  artifactKey: Guid(df13d48dcd6ba4b66932b029b8b22b48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ChatScene.unity using Guid(df13d48dcd6ba4b66932b029b8b22b48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ca40475c9adbe158baa37cd08558c00') in 0.011836 seconds
+  Import took 0.019672 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000859 seconds.
+Registered in 0.010865 seconds.
 Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 2.59 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Warning: Annotation not found!
 UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
@@ -1262,25 +112,30 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.292 seconds
+- Completed reload, in  9.973 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.76 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 1.36 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1653 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 195.6 MB.
-System memory in use after: 195.1 MB.
+Unloading 2244 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 196.4 MB.
+System memory in use after: 195.5 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2214.
-Total: 4.313416 ms (FindLiveObjects: 0.358079 ms CreateObjectMapping: 0.140287 ms MarkObjects: 2.917715 ms  DeleteObjects: 0.895211 ms)
+Unloading 392 unused Assets to reduce memory usage. Loaded Objects now: 2651.
+Total: 7.294430 ms (FindLiveObjects: 0.587599 ms CreateObjectMapping: 0.186464 ms MarkObjects: 4.458623 ms  DeleteObjects: 2.058560 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000852 seconds.
+Registered in 0.012757 seconds.
 Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.94 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 1.30 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Warning: Annotation not found!
 UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
@@ -1295,25 +150,30 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.765 seconds
+- Completed reload, in  8.047 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.95 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 1.80 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1653 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 196.1 MB.
-System memory in use after: 195.6 MB.
+Unloading 2244 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 197.0 MB.
+System memory in use after: 195.9 MB.
 
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2217.
-Total: 7.679257 ms (FindLiveObjects: 0.586992 ms CreateObjectMapping: 0.240338 ms MarkObjects: 5.460256 ms  DeleteObjects: 1.389010 ms)
+Unloading 392 unused Assets to reduce memory usage. Loaded Objects now: 2654.
+Total: 37.334951 ms (FindLiveObjects: 4.790333 ms CreateObjectMapping: 1.074836 ms MarkObjects: 19.575915 ms  DeleteObjects: 11.889208 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001300 seconds.
+Registered in 0.028602 seconds.
 Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.66 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 5.03 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Warning: Annotation not found!
 UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
@@ -1328,86 +188,37 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.425 seconds
+- Completed reload, in  5.457 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.12 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 1.17 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1653 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 196.6 MB.
-System memory in use after: 196.1 MB.
+Unloading 2244 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 197.6 MB.
+System memory in use after: 196.7 MB.
 
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2220.
-Total: 7.759573 ms (FindLiveObjects: 0.878223 ms CreateObjectMapping: 0.393340 ms MarkObjects: 4.953247 ms  DeleteObjects: 1.531360 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 1399.383991 seconds.
-  path: Assets/Clothing System 3D/Models/Clothes/Materials
-  artifactKey: Guid(dd63d1d084b87e24dbee5973f5d3e69c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Clothes/Materials using Guid(dd63d1d084b87e24dbee5973f5d3e69c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09e4e1c4d5b2da0e0dcb5fc75bcf6508') in 0.005530 seconds
-  Import took 0.018064 seconds .
+Unloading 392 unused Assets to reduce memory usage. Loaded Objects now: 2657.
+Total: 9.124459 ms (FindLiveObjects: 0.883039 ms CreateObjectMapping: 0.289360 ms MarkObjects: 5.780218 ms  DeleteObjects: 2.169527 ms)
 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.093511 seconds.
-  path: Assets/Clothing System 3D/Models/Clothes/Materials/female_shirt.mat
-  artifactKey: Guid(05e243eb972c6e34ba22ecc1ed6a822c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Clothes/Materials/female_shirt.mat using Guid(05e243eb972c6e34ba22ecc1ed6a822c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00eeef3e8147514cea8e53fa1f3126ef') in 0.097858 seconds
-  Import took 0.107600 seconds .
+Received Prepare
+Refreshing native plugins compatible for Editor in 80.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 148.7 MB.
+System memory in use after: 148.2 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2657.
+Total: 31.448402 ms (FindLiveObjects: 0.750188 ms CreateObjectMapping: 0.331121 ms MarkObjects: 21.887791 ms  DeleteObjects: 8.476329 ms)
 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000473 seconds.
-  path: Assets/Clothing System 3D/Models/Clothes/Materials/None.001.mat
-  artifactKey: Guid(35d0298c75d550043be62608b9dce31e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Clothes/Materials/None.001.mat using Guid(35d0298c75d550043be62608b9dce31e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8d4c84c818b4b9e6c35f921efdc8bb4') in 0.016508 seconds
-  Import took 0.023003 seconds .
+Received Prepare
+Refreshing native plugins compatible for Editor in 10.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 148.8 MB.
+System memory in use after: 148.4 MB.
 
-========================================================================
-Received Import Request.
-  Time since last request: 0.001529 seconds.
-  path: Assets/Clothing System 3D/Models/Clothes/Materials/female_skirt.mat
-  artifactKey: Guid(61f4e4be28008dd4e9eed2b18e9a9fce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Clothes/Materials/female_skirt.mat using Guid(61f4e4be28008dd4e9eed2b18e9a9fce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad88643f5b974322f0fb47c48fc2edd8') in 0.027466 seconds
-  Import took 0.037295 seconds .
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2657.
+Total: 5.904914 ms (FindLiveObjects: 0.510000 ms CreateObjectMapping: 0.151937 ms MarkObjects: 4.116043 ms  DeleteObjects: 1.124556 ms)
 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000403 seconds.
-  path: Assets/Clothing System 3D/Models/Clothes/Materials/panda_body_A.mat
-  artifactKey: Guid(49eca6171f32b654aabb3fe7dc1a8555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Clothes/Materials/panda_body_A.mat using Guid(49eca6171f32b654aabb3fe7dc1a8555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1f99f8f98f3960dde78245c93424734') in 0.037845 seconds
-  Import took 0.045961 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001197 seconds.
-  path: Assets/Clothing System 3D/Models/Clothes/Materials/Material.001.mat
-  artifactKey: Guid(5fa72e56cd824a94180e4c4126f0216b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Clothes/Materials/Material.001.mat using Guid(5fa72e56cd824a94180e4c4126f0216b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a778310415065876df1fd25c32a1fe78') in 0.014300 seconds
-  Import took 0.023357 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000327 seconds.
-  path: Assets/Clothing System 3D/Models/Clothes/Materials/Material.mat
-  artifactKey: Guid(36499e3ca0e79d74ea5228be36cd0558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Clothes/Materials/Material.mat using Guid(36499e3ca0e79d74ea5228be36cd0558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33c260a72a63e06b86477bd7aa343bd3') in 0.029467 seconds
-  Import took 0.035983 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 13.658585 seconds.
-  path: Assets/Clothing System 3D/Models/Materials/No Name.mat
-  artifactKey: Guid(7e1a4162df64cb94fbb416b89eb5976d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Materials/No Name.mat using Guid(7e1a4162df64cb94fbb416b89eb5976d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b1b06ce44e09004441baccf71cbf714') in 0.019207 seconds
-  Import took 0.026718 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.003715 seconds.
-  path: Assets/Clothing System 3D/Models/Materials/No Name.mat
-  artifactKey: Guid(7e1a4162df64cb94fbb416b89eb5976d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Models/Materials/No Name.mat using Guid(7e1a4162df64cb94fbb416b89eb5976d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b1b06ce44e09004441baccf71cbf714') in 0.012362 seconds
-  Import took 0.023303 seconds .
-
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
