@@ -1,12 +1,8 @@
-<?xml version="1.0" encoding="Windows-1252"?>
-<ArrayOfBodyType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0"?>
+<ArrayOfBodyType xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <BodyType>
     <ID>1</ID>
     <Name>Human</Name>
-  </BodyType>
-  <BodyType>
-    <ID>2</ID>
-    <Name>Horse</Name>
   </BodyType>
   <BodyType>
     <ID>3</ID>
