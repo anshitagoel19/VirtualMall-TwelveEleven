@@ -1,17 +1,4 @@
-﻿// ********************************
-//  ActorScript
-//
-//  Controls the customization of the actor.
-//  See the documentation for information on 
-//  how it works.
-//
-//  Clothing System 3D
-//  2016 - Larissa Redeker
-//  Kittens and Elves at Work
-//  http://www.keawstudio.com
-//
-// ********************************
-
+﻿
 using UnityEngine;
 using System.Collections.Generic;
 using System;

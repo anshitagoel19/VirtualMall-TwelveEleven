@@ -1,14 +1,4 @@
-﻿// ********************************
-//  [class-name]
-//
-//  [class-description]
-//
-//  [project-name]
-//  2016 - Larissa Redeker
-//  Kittens and Elves at Work
-//  http://www.keawstudio.com
-//
-// ********************************
+﻿
 
 using UnityEngine;
 using System.Collections.Generic;

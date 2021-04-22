@@ -1,28 +1,13 @@
-<?xml version="1.0" encoding="Windows-1252"?>
-<ArrayOfCloth xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0"?>
+<ArrayOfCloth xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Cloth>
     <ID>2</ID>
-    <Name>Sheriff Shirt</Name>
+    <Name> Shirt</Name>
     <IDBodyStructure>1</IDBodyStructure>
   </Cloth>
   <Cloth>
     <ID>3</ID>
-    <Name>Sheriff Boots</Name>
-    <IDBodyStructure>1</IDBodyStructure>
-  </Cloth>
-  <Cloth>
-    <ID>4</ID>
-    <Name>Mummy</Name>
-    <IDBodyStructure>1</IDBodyStructure>
-  </Cloth>
-  <Cloth>
-    <ID>5</ID>
-    <Name>Panda</Name>
-    <IDBodyStructure>1</IDBodyStructure>
-  </Cloth>
-  <Cloth>
-    <ID>6</ID>
-    <Name>Sheriff Pants</Name>
+    <Name> Boots</Name>
     <IDBodyStructure>1</IDBodyStructure>
   </Cloth>
   <Cloth>

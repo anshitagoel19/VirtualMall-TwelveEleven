@@ -1,60 +1,12 @@
-<?xml version="1.0" encoding="Windows-1252"?>
-<ArrayOfClothSlots xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0"?>
+<ArrayOfClothSlots xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ClothSlots>
     <ClothID>3</ClothID>
     <ClothSlot>4</ClothSlot>
   </ClothSlots>
   <ClothSlots>
-    <ClothID>4</ClothID>
-    <ClothSlot>1</ClothSlot>
-  </ClothSlots>
-  <ClothSlots>
-    <ClothID>4</ClothID>
-    <ClothSlot>2</ClothSlot>
-  </ClothSlots>
-  <ClothSlots>
-    <ClothID>4</ClothID>
-    <ClothSlot>3</ClothSlot>
-  </ClothSlots>
-  <ClothSlots>
-    <ClothID>4</ClothID>
-    <ClothSlot>4</ClothSlot>
-  </ClothSlots>
-  <ClothSlots>
-    <ClothID>4</ClothID>
-    <ClothSlot>5</ClothSlot>
-  </ClothSlots>
-  <ClothSlots>
-    <ClothID>4</ClothID>
-    <ClothSlot>6</ClothSlot>
-  </ClothSlots>
-  <ClothSlots>
-    <ClothID>5</ClothID>
-    <ClothSlot>2</ClothSlot>
-  </ClothSlots>
-  <ClothSlots>
-    <ClothID>5</ClothID>
-    <ClothSlot>3</ClothSlot>
-  </ClothSlots>
-  <ClothSlots>
-    <ClothID>5</ClothID>
-    <ClothSlot>4</ClothSlot>
-  </ClothSlots>
-  <ClothSlots>
-    <ClothID>5</ClothID>
-    <ClothSlot>5</ClothSlot>
-  </ClothSlots>
-  <ClothSlots>
-    <ClothID>5</ClothID>
-    <ClothSlot>6</ClothSlot>
-  </ClothSlots>
-  <ClothSlots>
     <ClothID>2</ClothID>
     <ClothSlot>2</ClothSlot>
-  </ClothSlots>
-  <ClothSlots>
-    <ClothID>6</ClothID>
-    <ClothSlot>3</ClothSlot>
   </ClothSlots>
   <ClothSlots>
     <ClothID>7</ClothID>

@@ -1,15 +1,4 @@
-﻿// ********************************
-//  ConfigRecordset
-//
-//  Save and restore config data in a XML file
-//	The file is stored in the Resources folder
-//
-//  Clothing System 3D
-//  2016 - Larissa Redeker
-//  Kittens and Elves at Work
-//  http://www.keawstudio.com
-//
-// ********************************
+﻿
 
 using UnityEngine;
 using System.Collections.Generic;

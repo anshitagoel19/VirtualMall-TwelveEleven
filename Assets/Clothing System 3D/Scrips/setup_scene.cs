@@ -1,14 +1,4 @@
-﻿// ********************************
-//  setup_scene
-//
-//  Controls the example scene "setup"
-//
-//  Clothing System 3D
-//  2016 - Larissa Redeker
-//  Kittens and Elves at Work
-//  http://www.keawstudio.com
-//
-// ********************************
+﻿
 
 using UnityEngine;
 using UnityEngine.UI;

@@ -1,15 +1,4 @@
-﻿// ********************************
-//  Recordset
-//
-//  Save and retrieve data im XML files
-//
-//  Clothing System 3D
-//  2016 - Larissa Redeker
-//  Kittens and Elves at Work
-//  http://www.keawstudio.com
-//
-// ********************************
-
+﻿
 using UnityEngine;
 using System.Collections.Generic;
 using ClothingSystem3D;

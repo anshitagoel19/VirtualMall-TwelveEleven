@@ -1705,7 +1705,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &562468608
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4423,7 +4423,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 28.83, y: 142}
+  m_AnchoredPosition: {x: 28.83, y: 83.03}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &819581573
@@ -4539,7 +4539,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -556, y: -260}
+  m_AnchoredPosition: {x: -560.9, y: -160}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &938836666
@@ -10617,7 +10617,7 @@ PrefabInstance:
     - target: {fileID: 13700014, guid: 45e8eef3c3d04994ba435e05fd49f885, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 6e856ac9687154e00b85807f56019b23, type: 2}
+      objectReference: {fileID: 2100000, guid: 4b56db8e562484937a391085cc28e0fe, type: 2}
     - target: {fileID: 13700016, guid: 45e8eef3c3d04994ba435e05fd49f885, type: 3}
       propertyPath: m_Mesh
       value: 
@@ -10674,7 +10674,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1513680219
 RectTransform:
   m_ObjectHideFlags: 0
@@ -10872,7 +10872,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18924
+  m_Name: pb_Mesh49392
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2

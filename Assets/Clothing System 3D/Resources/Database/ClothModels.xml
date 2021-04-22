@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="Windows-1252"?>
-<ArrayOfClothModels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0"?>
+<ArrayOfClothModels xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ClothModels>
     <ClothID>3</ClothID>
     <IDBodySubtype>1</IDBodySubtype>
@@ -11,26 +11,6 @@
     <ModelName>female_boots</ModelName>
   </ClothModels>
   <ClothModels>
-    <ClothID>4</ClothID>
-    <IDBodySubtype>1</IDBodySubtype>
-    <ModelName>male_mummy</ModelName>
-  </ClothModels>
-  <ClothModels>
-    <ClothID>4</ClothID>
-    <IDBodySubtype>2</IDBodySubtype>
-    <ModelName>female_mummy</ModelName>
-  </ClothModels>
-  <ClothModels>
-    <ClothID>5</ClothID>
-    <IDBodySubtype>1</IDBodySubtype>
-    <ModelName>panda</ModelName>
-  </ClothModels>
-  <ClothModels>
-    <ClothID>5</ClothID>
-    <IDBodySubtype>2</IDBodySubtype>
-    <ModelName>panda</ModelName>
-  </ClothModels>
-  <ClothModels>
     <ClothID>2</ClothID>
     <IDBodySubtype>1</IDBodySubtype>
     <ModelName>male_shirt</ModelName>
@@ -39,16 +19,6 @@
     <ClothID>2</ClothID>
     <IDBodySubtype>2</IDBodySubtype>
     <ModelName>female_shirt</ModelName>
-  </ClothModels>
-  <ClothModels>
-    <ClothID>6</ClothID>
-    <IDBodySubtype>1</IDBodySubtype>
-    <ModelName>male_pants</ModelName>
-  </ClothModels>
-  <ClothModels>
-    <ClothID>6</ClothID>
-    <IDBodySubtype>2</IDBodySubtype>
-    <ModelName>female_skirt</ModelName>
   </ClothModels>
   <ClothModels>
     <ClothID>7</ClothID>
