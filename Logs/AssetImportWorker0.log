@@ -8,47 +8,47 @@ Using pre-set license
 -name
 AssetImportWorker0
 -projectPath
-/Users/adityachawla/Desktop/VirtualMall-TwelveElevenFINALFILE
+/Users/anshitagoel/Documents/GitHub/Mall
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-52173
-Successfully changed project path to: /Users/adityachawla/Desktop/VirtualMall-TwelveElevenFINALFILE
-/Users/adityachawla/Desktop/VirtualMall-TwelveElevenFINALFILE
+50389
+Successfully changed project path to: /Users/anshitagoel/Documents/GitHub/Mall
+/Users/anshitagoel/Documents/GitHub/Mall
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 87.13 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 95.20 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
 [Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path /Users/adityachawla/Desktop/VirtualMall-TwelveElevenFINALFILE/Assets
+[Subsystems] Discovering subsystems at path /Users/anshitagoel/Documents/GitHub/Mall/Assets
 GfxDevice: creating device client; threaded=0
-2021-04-22 15:22:50.107 Unity[5103:211314] Color LCD preferred device: Intel(R) Iris(TM) Graphics 6000 (low power)
-2021-04-22 15:22:50.107 Unity[5103:211314] Metal devices available: 1
-2021-04-22 15:22:50.107 Unity[5103:211314] 0: Intel(R) Iris(TM) Graphics 6000 (low power)
-2021-04-22 15:22:50.107 Unity[5103:211314] Using device Intel(R) Iris(TM) Graphics 6000 (low power)
+2021-04-22 15:31:43.651 Unity[2298:65036] Color LCD preferred device: Intel(R) Iris(TM) Graphics 6000 (low power)
+2021-04-22 15:31:43.651 Unity[2298:65036] Metal devices available: 1
+2021-04-22 15:31:43.651 Unity[2298:65036] 0: Intel(R) Iris(TM) Graphics 6000 (low power)
+2021-04-22 15:31:43.651 Unity[2298:65036] Using device Intel(R) Iris(TM) Graphics 6000 (low power)
 Initializing Metal device caps: Intel(R) Iris(TM) Graphics 6000
 Initialize mono
 Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/Managed'
 Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = '/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56103
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56298
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /Applications/Unity/Hub/Editor/2020.3.2f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: /Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Registered in 0.001285 seconds.
+Registered in 0.010217 seconds.
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 72.13 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 121.21 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.220 seconds
+- Completed reload, in  4.215 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003493 seconds.
+Registered in 0.016595 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory is not a mono symbol file
 Symbol file LoadedFromMemory is not a mono symbol file
@@ -57,38 +57,31 @@ Symbol file LoadedFromMemory is not a mono symbol file
 Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 1.31 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.888 seconds
+- Completed reload, in  2.475 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launching external process: /Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/Tools/UnityShaderCompiler
-Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
-Refreshing native plugins compatible for Editor in 0.67 ms, found 1 plugins.
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.74 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2339 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 201.4 MB.
-System memory in use after: 200.4 MB.
+System memory in use before: 203.0 MB.
+System memory in use after: 202.1 MB.
 
 Unloading 477 unused Assets to reduce memory usage. Loaded Objects now: 2648.
-Total: 7.849471 ms (FindLiveObjects: 0.539340 ms CreateObjectMapping: 0.231523 ms MarkObjects: 4.808523 ms  DeleteObjects: 2.265134 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Clothing System 3D/Textures/f_sheriff
-  artifactKey: Guid(8a2ac373e9e64504e81ff9146ee51543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Textures/f_sheriff using Guid(8a2ac373e9e64504e81ff9146ee51543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fccdfb468e841e3af505ca7357ac81a') in 0.009269 seconds
-  Import took 0.016214 seconds .
+Total: 5.109817 ms (FindLiveObjects: 0.393263 ms CreateObjectMapping: 0.191864 ms MarkObjects: 2.932086 ms  DeleteObjects: 1.590666 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002726 seconds.
+Registered in 0.004817 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory is not a mono symbol file
 Symbol file LoadedFromMemory is not a mono symbol file
@@ -97,7 +90,7 @@ Symbol file LoadedFromMemory is not a mono symbol file
 Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.73 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 1.50 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Warning: Annotation not found!
 UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
@@ -112,53 +105,138 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.680 seconds
+- Completed reload, in  4.538 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 7.84 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2244 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 195.1 MB.
-System memory in use after: 194.2 MB.
+System memory in use before: 196.8 MB.
+System memory in use after: 196.0 MB.
 
 Unloading 392 unused Assets to reduce memory usage. Loaded Objects now: 2651.
-Total: 5.016049 ms (FindLiveObjects: 0.422161 ms CreateObjectMapping: 0.275048 ms MarkObjects: 3.016054 ms  DeleteObjects: 1.299783 ms)
+Total: 20.084382 ms (FindLiveObjects: 6.177188 ms CreateObjectMapping: 0.535848 ms MarkObjects: 5.874447 ms  DeleteObjects: 7.488935 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 31.494463 seconds.
-  path: Assets/Clothing System 3D/Scrips/CameraPoints.cs
-  artifactKey: Guid(ff8a055c669ffd8489a8d49f13e84256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Scrips/CameraPoints.cs using Guid(ff8a055c669ffd8489a8d49f13e84256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f1f91d48159e633fbee63ebdd93da56') in 0.507687 seconds
-  Import took 0.512937 seconds .
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10a20b8dbfa42166dde1b17728aec6b5') in 0.014679 seconds
+  Import took 0.021758 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 9.851373 seconds.
-  path: Assets/Clothing System 3D/Scrips/ActorScripts
-  artifactKey: Guid(80e4e7322c793e847a363f0003a236fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Scrips/ActorScripts using Guid(80e4e7322c793e847a363f0003a236fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fd5d515bbeb4b289b44380fa8e64e97') in 0.002419 seconds
-  Import took 0.010324 seconds .
+  Time since last request: 0.015161 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10a20b8dbfa42166dde1b17728aec6b5') in 0.002645 seconds
+  Import took 0.011629 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.856603 seconds.
-  path: Assets/Clothing System 3D/Scrips/ActorScripts/ActorScript.cs
-  artifactKey: Guid(e9be08854c66ff240ab6d8e290c41b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Scrips/ActorScripts/ActorScript.cs using Guid(e9be08854c66ff240ab6d8e290c41b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee3181eee5d48d9596d456b14e373450') in 0.007084 seconds
-  Import took 0.014375 seconds .
+  Time since last request: 153.241378 seconds.
+  path: Assets/Scenes/ChangeSceneWithButton.cs
+  artifactKey: Guid(28dcaec721b6e401c9fd9f7c03dbf024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ChangeSceneWithButton.cs using Guid(28dcaec721b6e401c9fd9f7c03dbf024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00e31a4927bb511d19c29dd7a14b1add') in 0.625998 seconds
+  Import took 0.631092 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.004153 seconds.
-  path: Assets/Clothing System 3D/Scrips/ActorScripts/ActorScript.cs
-  artifactKey: Guid(e9be08854c66ff240ab6d8e290c41b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Scrips/ActorScripts/ActorScript.cs using Guid(e9be08854c66ff240ab6d8e290c41b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee3181eee5d48d9596d456b14e373450') in 0.007426 seconds
-  Import took 0.018312 seconds .
+  Time since last request: 88.858305 seconds.
+  path: Assets/Photon
+  artifactKey: Guid(98951132346795f438babe7a3183da43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon using Guid(98951132346795f438babe7a3183da43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '677d1ce39176ab8993a94146dc62df61') in 0.002559 seconds
+  Import took 0.012009 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.005749 seconds.
+Registered in 0.005102 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.10 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.028 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2244 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 202.0 MB.
+System memory in use after: 201.0 MB.
+
+Unloading 392 unused Assets to reduce memory usage. Loaded Objects now: 2654.
+Total: 4.738194 ms (FindLiveObjects: 0.329836 ms CreateObjectMapping: 0.132312 ms MarkObjects: 2.895835 ms  DeleteObjects: 1.376933 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 59.266259 seconds.
+  path: Assets/Photon/PhotonChat/Code/ChannelCreationOptions.cs
+  artifactKey: Guid(6c1aa0fceaa2bc14eabdf85976f4e2c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonChat/Code/ChannelCreationOptions.cs using Guid(6c1aa0fceaa2bc14eabdf85976f4e2c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2adb4114f8214ee5ace333ca516d9d3f') in 0.011154 seconds
+  Import took 0.018030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Photon/PhotonChat/Code/changes-chat.txt
+  artifactKey: Guid(e5c3dda6f11fe7845989297c8a603dc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonChat/Code/changes-chat.txt using Guid(e5c3dda6f11fe7845989297c8a603dc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bec3cc61b983629b8b537510a4ec3f4e') in 5.741488 seconds
+  Import took 5.745964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/Photon/PhotonChat/Code/ChatChannel.cs
+  artifactKey: Guid(35b2a4878e5e99e438c97fbe8dbbd863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonChat/Code/ChatChannel.cs using Guid(35b2a4878e5e99e438c97fbe8dbbd863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b27725d7308fdeefa2c1c8aa36a51056') in 0.003190 seconds
+  Import took 0.008672 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Photon/PhotonChat/Code/ChatDisconnectCause.cs
+  artifactKey: Guid(b90b85043f1857f43b94fd00edfc1ef1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonChat/Code/ChatDisconnectCause.cs using Guid(b90b85043f1857f43b94fd00edfc1ef1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db2adf2950ae6839c8e19b8bd56a7090') in 0.003361 seconds
+  Import took 0.009056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Photon/PhotonChat/Code/ChatAppSettings.cs
+  artifactKey: Guid(87776a9b1f405644abcc38ecd70c37fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonChat/Code/ChatAppSettings.cs using Guid(87776a9b1f405644abcc38ecd70c37fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c91e6387a89f8991975a84335c83747') in 0.003272 seconds
+  Import took 0.008547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Photon/PhotonChat/Code/ChatClient.cs
+  artifactKey: Guid(692e391fa2a297c45b3d530aa85be610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonChat/Code/ChatClient.cs using Guid(692e391fa2a297c45b3d530aa85be610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46ecf4130860f95a201368c4b09204a0') in 0.003835 seconds
+  Import took 0.009838 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005290 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory is not a mono symbol file
 Symbol file LoadedFromMemory is not a mono symbol file
@@ -182,45 +260,29 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.947 seconds
+- Completed reload, in  2.103 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 4.01 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 3.49 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2244 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 200.1 MB.
-System memory in use after: 199.2 MB.
+System memory in use before: 206.8 MB.
+System memory in use after: 205.9 MB.
 
-Unloading 392 unused Assets to reduce memory usage. Loaded Objects now: 2654.
-Total: 5.116876 ms (FindLiveObjects: 0.481195 ms CreateObjectMapping: 0.237185 ms MarkObjects: 2.906165 ms  DeleteObjects: 1.490379 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 30.732668 seconds.
-  path: Assets/Clothing System 3D/Scrips/ActorScripts/ActorScript.cs
-  artifactKey: Guid(e9be08854c66ff240ab6d8e290c41b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Scrips/ActorScripts/ActorScript.cs using Guid(e9be08854c66ff240ab6d8e290c41b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a6ddb08c84df99491980a1f87ddcd52') in 0.012355 seconds
-  Import took 0.021709 seconds .
+Unloading 392 unused Assets to reduce memory usage. Loaded Objects now: 2657.
+Total: 8.133767 ms (FindLiveObjects: 0.327673 ms CreateObjectMapping: 0.133666 ms MarkObjects: 4.639987 ms  DeleteObjects: 3.028192 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 3.658786 seconds.
-  path: Assets/Clothing System 3D/Scrips/Database/XML
-  artifactKey: Guid(0010a06b27ca65344a58bdec794db8bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Scrips/Database/XML using Guid(0010a06b27ca65344a58bdec794db8bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5af6081b216765f466c5a612ab90843a') in 0.002553 seconds
-  Import took 0.013435 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.196338 seconds.
-  path: Assets/Clothing System 3D/Scrips/Database/XML/Recordset.cs
-  artifactKey: Guid(98688298365917b48a65736c77d7d2db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Scrips/Database/XML/Recordset.cs using Guid(98688298365917b48a65736c77d7d2db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb548a9acaf4b60abd2873ef7fac3f24') in 0.006718 seconds
-  Import took 0.011847 seconds .
+  Time since last request: 56.350829 seconds.
+  path: Assets/Photon/PhotonChat/Code/ChannelCreationOptions.cs
+  artifactKey: Guid(6c1aa0fceaa2bc14eabdf85976f4e2c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonChat/Code/ChannelCreationOptions.cs using Guid(6c1aa0fceaa2bc14eabdf85976f4e2c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d56c1c83160b81f078e6b154e35f96b') in 0.013763 seconds
+  Import took 0.021778 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002584 seconds.
+Registered in 0.006420 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory is not a mono symbol file
 Symbol file LoadedFromMemory is not a mono symbol file
@@ -229,7 +291,7 @@ Symbol file LoadedFromMemory is not a mono symbol file
 Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 1.01 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Warning: Annotation not found!
 UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
@@ -244,235 +306,29 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.830 seconds
+- Completed reload, in  2.223 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2244 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 200.7 MB.
-System memory in use after: 199.9 MB.
-
-Unloading 392 unused Assets to reduce memory usage. Loaded Objects now: 2657.
-Total: 7.958924 ms (FindLiveObjects: 0.563933 ms CreateObjectMapping: 0.217446 ms MarkObjects: 5.012473 ms  DeleteObjects: 2.161704 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 19.397905 seconds.
-  path: Assets/Clothing System 3D/Scrips/Database/XML/Recordset.cs
-  artifactKey: Guid(98688298365917b48a65736c77d7d2db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Scrips/Database/XML/Recordset.cs using Guid(98688298365917b48a65736c77d7d2db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db593c54c77233a77175e43c9d64af03') in 0.009257 seconds
-  Import took 0.013949 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002994 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Warning: Annotation not found!
-UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
-UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
-UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
-System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
-
-[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
-
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.704 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.28 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2244 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 201.4 MB.
-System memory in use after: 200.4 MB.
+System memory in use before: 207.4 MB.
+System memory in use after: 206.4 MB.
 
 Unloading 392 unused Assets to reduce memory usage. Loaded Objects now: 2660.
-Total: 7.886582 ms (FindLiveObjects: 0.503708 ms CreateObjectMapping: 0.244891 ms MarkObjects: 4.854848 ms  DeleteObjects: 2.280170 ms)
+Total: 5.997669 ms (FindLiveObjects: 0.339239 ms CreateObjectMapping: 0.117854 ms MarkObjects: 3.622802 ms  DeleteObjects: 1.915278 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 34.404252 seconds.
-  path: Assets/Clothing System 3D/Resources/BodyModels/chibi.prefab
-  artifactKey: Guid(21c9e78360b33144a99ddacbcd511af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Resources/BodyModels/chibi.prefab using Guid(21c9e78360b33144a99ddacbcd511af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cb99b03b9359f31c384c8013314046d') in 2.186072 seconds
-  Import took 2.195529 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.002263 seconds.
-  path: Assets/Clothing System 3D/Resources/BodyModels/horse.prefab
-  artifactKey: Guid(724ee38b65e15ae428783f2efd885f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Resources/BodyModels/horse.prefab using Guid(724ee38b65e15ae428783f2efd885f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fd6bca95897ab8ebe95fe31726cac09') in 0.022220 seconds
-  Import took 0.030505 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000386 seconds.
-  path: Assets/Clothing System 3D/Resources/BodyModels/horse_squeleton.prefab
-  artifactKey: Guid(575d6dfde1694194cbb8e4acf4867e1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Resources/BodyModels/horse_squeleton.prefab using Guid(575d6dfde1694194cbb8e4acf4867e1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e2f235d0eb64014739f5445a5af45ad') in 0.022938 seconds
-  Import took 0.028845 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000488 seconds.
-  path: Assets/Clothing System 3D/Resources/BodyModels/male_body.prefab
-  artifactKey: Guid(dd50a8c527224dc4d8be5cedadde89ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Resources/BodyModels/male_body.prefab using Guid(dd50a8c527224dc4d8be5cedadde89ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '767d6b7c67a50c262fdd6f106a87964f') in 0.023274 seconds
-  Import took 0.036402 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000376 seconds.
-  path: Assets/Clothing System 3D/Resources/BodyModels/female_body.prefab
-  artifactKey: Guid(6e169bbd7639ca0418dbd6382908e667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Resources/BodyModels/female_body.prefab using Guid(6e169bbd7639ca0418dbd6382908e667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec9dc84070ffba7a899317d6df788af5') in 0.013391 seconds
-  Import took 0.019458 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.904678 seconds.
-  path: Assets/Clothing System 3D/Resources/Database/ClothModels.xml
-  artifactKey: Guid(d81502aa53b6cee40aa2e8f1e44730d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Resources/Database/ClothModels.xml using Guid(d81502aa53b6cee40aa2e8f1e44730d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ec879b8ab874a6f23ec7a55fec9179c') in 2.943886 seconds
-  Import took 2.949852 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000416 seconds.
-  path: Assets/Clothing System 3D/Resources/Props/sheriff_hat.prefab
-  artifactKey: Guid(fb703300cac064e4b88f674388209ad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Resources/Props/sheriff_hat.prefab using Guid(fb703300cac064e4b88f674388209ad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42e73599a63d1c2701df6b0a3822abcf') in 0.030544 seconds
-  Import took 0.037295 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000374 seconds.
-  path: Assets/Clothing System 3D/Resources/Props/hair_male_blonde.prefab
-  artifactKey: Guid(85b3d8b7ee87be94db2c3b26e1af0686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Resources/Props/hair_male_blonde.prefab using Guid(85b3d8b7ee87be94db2c3b26e1af0686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79cba8e45181527552463d21185110e6') in 0.029464 seconds
-  Import took 0.036520 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000344 seconds.
-  path: Assets/Clothing System 3D/Resources/Props/hair_male_red.prefab
-  artifactKey: Guid(c0bcc6e4593cd8f4da22acb254a4974e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Resources/Props/hair_male_red.prefab using Guid(c0bcc6e4593cd8f4da22acb254a4974e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0219ca01fbb2efbb973fd4f753882c1b') in 0.017595 seconds
-  Import took 0.023873 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000314 seconds.
-  path: Assets/Clothing System 3D/Resources/Props/wintercap.prefab
-  artifactKey: Guid(56359674c31e1384ba5a0dfd30768dcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Resources/Props/wintercap.prefab using Guid(56359674c31e1384ba5a0dfd30768dcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f20d54ca81de8ed1452fc26980178f5b') in 0.037973 seconds
-  Import took 0.046967 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000368 seconds.
-  path: Assets/Clothing System 3D/Resources/Props/hair_male_brown.prefab
-  artifactKey: Guid(a2304dae752181448ad9137b9e67b050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Resources/Props/hair_male_brown.prefab using Guid(a2304dae752181448ad9137b9e67b050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fd15e24d8dd04501681a48884fb3bfc') in 0.019440 seconds
-  Import took 0.025926 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.009019 seconds.
-  path: Assets/Clothing System 3D/Materials/floor.mat
-  artifactKey: Guid(99969f2fa4e498d4ea50691ea39647c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothing System 3D/Materials/floor.mat using Guid(99969f2fa4e498d4ea50691ea39647c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93a6755e88baa6b76ee5402736a9497e') in 0.498586 seconds
-  Import took 0.505905 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.899900 seconds.
-  path: Assets/Clothes/Bob-from-the-minions-movie.jpeg
-  artifactKey: Guid(0ee3c83ac61bd4fe0a2530e108874bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothes/Bob-from-the-minions-movie.jpeg using Guid(0ee3c83ac61bd4fe0a2530e108874bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9eba58d176398a9561369b7ac5be77e') in 1.007227 seconds
-  Import took 1.014395 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000410 seconds.
-  path: Assets/Clothes/download.jpeg
-  artifactKey: Guid(41aa503ef2d3341ce9e874231b68612b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothes/download.jpeg using Guid(41aa503ef2d3341ce9e874231b68612b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d0f626f940c874f446500bf5ed1c282') in 0.013351 seconds
-  Import took 0.017941 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000304 seconds.
-  path: Assets/Clothes/m76_final.jpg
-  artifactKey: Guid(f765e5e73c7a04367a89e0a552b5bdfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothes/m76_final.jpg using Guid(f765e5e73c7a04367a89e0a552b5bdfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9a68bcea1069e937c024467e5f88488') in 1.097082 seconds
-  Import took 1.102129 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.003997 seconds.
-  path: Assets/Clothes/m76_final.jpg
-  artifactKey: Guid(f765e5e73c7a04367a89e0a552b5bdfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Clothes/m76_final.jpg using Guid(f765e5e73c7a04367a89e0a552b5bdfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9a68bcea1069e937c024467e5f88488') in 0.013134 seconds
-  Import took 0.020371 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.353537 seconds.
-  path: Assets/Photon/PhotonChat/Demos
-  artifactKey: Guid(801c62f7d03cb463ba20067deb330234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Photon/PhotonChat/Demos using Guid(801c62f7d03cb463ba20067deb330234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a4df1a3fc55d0b1b5fb590d70154ccf') in 0.007076 seconds
-  Import took 0.016015 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.568284 seconds.
-  path: Assets/Photon/PhotonChat/Code
-  artifactKey: Guid(af83a98aaa4f7b64eb7fcec95ee7b1ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Photon/PhotonChat/Code using Guid(af83a98aaa4f7b64eb7fcec95ee7b1ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2098f0872aa7801593f09e99646f938') in 0.005019 seconds
-  Import took 0.012173 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.134571 seconds.
-  path: Assets/Photon/PhotonChat/Code/PhotonChat.asmdef
-  artifactKey: Guid(08a110bd598f7604f9519c2d7e1fb3cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Photon/PhotonChat/Code/PhotonChat.asmdef using Guid(08a110bd598f7604f9519c2d7e1fb3cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ad66d0b4064647e883ab2269c8cf1a2') in 0.274780 seconds
-  Import took 0.279882 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.624323 seconds.
-  path: Assets/Photon/PhotonChat/Code/ChannelCreationOptions.cs
-  artifactKey: Guid(6c1aa0fceaa2bc14eabdf85976f4e2c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Photon/PhotonChat/Code/ChannelCreationOptions.cs using Guid(6c1aa0fceaa2bc14eabdf85976f4e2c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '647e03066f573bbe1b2be78775dd92a5') in 0.012584 seconds
-  Import took 0.022743 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 37.932952 seconds.
+  Time since last request: 17.738373 seconds.
   path: Assets/Photon/PhotonChat/Code/ChannelWellKnownProperties.cs
   artifactKey: Guid(5eb508ffb7b7b0f47882f0087a668283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Photon/PhotonChat/Code/ChannelWellKnownProperties.cs using Guid(5eb508ffb7b7b0f47882f0087a668283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f49064004ea17c2a6275c282b7b5b8a') in 0.006506 seconds
-  Import took 0.017258 seconds .
+Start importing Assets/Photon/PhotonChat/Code/ChannelWellKnownProperties.cs using Guid(5eb508ffb7b7b0f47882f0087a668283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c25f36e6523ab704dce310a4b7669b6') in 0.007099 seconds
+  Import took 0.011875 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002688 seconds.
+Registered in 0.003453 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory is not a mono symbol file
 Symbol file LoadedFromMemory is not a mono symbol file
@@ -481,7 +337,7 @@ Symbol file LoadedFromMemory is not a mono symbol file
 Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 7.39 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 1.21 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Warning: Annotation not found!
 UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
@@ -496,38 +352,60 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.766 seconds
+- Completed reload, in  4.211 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.68 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2244 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 231.2 MB.
-System memory in use after: 230.3 MB.
+System memory in use before: 207.9 MB.
+System memory in use after: 206.9 MB.
 
-Unloading 392 unused Assets to reduce memory usage. Loaded Objects now: 2706.
-Total: 18.150409 ms (FindLiveObjects: 2.291369 ms CreateObjectMapping: 1.230325 ms MarkObjects: 12.707211 ms  DeleteObjects: 1.917090 ms)
+Unloading 392 unused Assets to reduce memory usage. Loaded Objects now: 2663.
+Total: 13.230443 ms (FindLiveObjects: 0.655111 ms CreateObjectMapping: 0.214438 ms MarkObjects: 2.775949 ms  DeleteObjects: 9.582595 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007589 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.11 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.869 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.24 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2244 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 208.5 MB.
+System memory in use after: 207.7 MB.
+
+Unloading 392 unused Assets to reduce memory usage. Loaded Objects now: 2666.
+Total: 5.649173 ms (FindLiveObjects: 0.379450 ms CreateObjectMapping: 0.152540 ms MarkObjects: 3.397283 ms  DeleteObjects: 1.717372 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 42.937083 seconds.
-  path: Assets/Photon/PhotonChat/Code/IChatClientListener.cs
-  artifactKey: Guid(bab7c8053b486e34aa0d4ca99dcbec80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Photon/PhotonChat/Code/IChatClientListener.cs using Guid(bab7c8053b486e34aa0d4ca99dcbec80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9caa187a411b11f4fc880befd02ec003') in 0.010776 seconds
-  Import took 0.017453 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.029455 seconds.
-  path: Assets/Photon/PhotonChat/Code/IChatClientListener.cs
-  artifactKey: Guid(bab7c8053b486e34aa0d4ca99dcbec80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Photon/PhotonChat/Code/IChatClientListener.cs using Guid(bab7c8053b486e34aa0d4ca99dcbec80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9caa187a411b11f4fc880befd02ec003') in 0.007530 seconds
-  Import took 0.017282 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.930226 seconds.
-  path: Assets/Photon/PhotonChat/Code/ChatUserStatus.cs
-  artifactKey: Guid(7db67e7f5face2e42b6daafcaf4e6c82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Photon/PhotonChat/Code/ChatUserStatus.cs using Guid(7db67e7f5face2e42b6daafcaf4e6c82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52d7cb48af3c942b40baf36617f137e4') in 0.005716 seconds
-  Import took 0.011374 seconds .
+  Time since last request: 207.816899 seconds.
+  path: Assets/Photon/PhotonChat/Code/ChatAppSettings.cs
+  artifactKey: Guid(87776a9b1f405644abcc38ecd70c37fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonChat/Code/ChatAppSettings.cs using Guid(87776a9b1f405644abcc38ecd70c37fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80cc1ea4c691772c3abffb0a4410de6f') in 0.008869 seconds
+  Import took 0.017216 seconds .
 
