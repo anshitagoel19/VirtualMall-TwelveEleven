@@ -1,2 +1,2 @@
 # Starting compiling PhotonChat.dll
-/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-37f83679cc07f40b1aa40a27e21ce18f
+/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-875c583dd4129489ab1e8a1908b8a67b

@@ -1,8 +1,4 @@
-﻿// ----------------------------------------------------------------------------------------------------------------------
-// <summary>The Photon Chat Api enables clients to connect to a chat server and communicate with other clients.</summary>
-// <remarks>ChatClient is the main class of this api.</remarks>
-// <copyright company="Exit Games GmbH">Photon Chat Api - Copyright (C) 2014 Exit Games GmbH</copyright>
-// ----------------------------------------------------------------------------------------------------------------------
+﻿
 
 #if UNITY_4_7 || UNITY_5 || UNITY_5_3_OR_NEWER
 #define SUPPORTED_UNITY
@@ -21,76 +17,39 @@ namespace Photon.Chat
     #endif
 
 
-    /// <summary>Central class of the Photon Chat API to connect, handle channels and messages.</summary>
-    /// <remarks>
-    /// This class must be instantiated with a IChatClientListener instance to get the callbacks.
-    /// Integrate it into your game loop by calling Service regularly. If the target platform supports Threads/Tasks,
-    /// set UseBackgroundWorkerForSending = true, to let the ChatClient keep the connection by sending from
-    /// an independent thread.
-    ///
-    /// Call Connect with an AppId that is setup as Photon Chat application. Note: Connect covers multiple
-    /// messages between this client and the servers. A short workflow will connect you to a chat server.
-    ///
-    /// Each ChatClient resembles a user in chat (set in Connect). Each user automatically subscribes a channel
-    /// for incoming private messages and can message any other user privately.
-    /// Before you publish messages in any non-private channel, that channel must be subscribed.
-    ///
-    /// PublicChannels is a list of subscribed channels, containing messages and senders.
-    /// PrivateChannels contains all incoming and sent private messages.
-    /// </remarks>
+    
     public class ChatClient : IPhotonPeerListener
     {
         const int FriendRequestListMax = 1024;
 
-        /// <summary> Default maximum value possible for <see cref="ChatChannel.MaxSubscribers"/> when <see cref="ChatChannel.PublishSubscribers"/> is enabled</summary>
         public const int DefaultMaxSubscribers = 100;
 
         private const byte HttpForwardWebFlag = 0x01;
 
-        /// <summary>Enables a fallback to another protocol in case a connect to the Name Server fails.</summary>
-        /// <remarks>
-        /// When connecting to the Name Server fails for a first time, the client will select an alternative
-        /// network protocol and re-try to connect.
-        ///
-        /// The fallback will use the default Name Server port as defined by ProtocolToNameServerPort.
-        ///
-        /// The fallback for TCP is UDP. All other protocols fallback to TCP.
-        /// </remarks>
+       
         public bool EnableProtocolFallback { get; set; }
 
-        /// <summary>The address of last connected Name Server.</summary>
         public string NameServerAddress { get; private set; }
 
-        /// <summary>The address of the actual chat server assigned from NameServer. Public for read only.</summary>
         public string FrontendAddress { get; private set; }
 
-        /// <summary>Region used to connect to. Currently all chat is done in EU. It can make sense to use only one region for the whole game.</summary>
         private string chatRegion = "EU";
 
-        /// <summary>Settable only before you connect! Defaults to "EU".</summary>
         public string ChatRegion
         {
             get { return this.chatRegion; }
             set { this.chatRegion = value; }
         }
 
-        /// <summary>Current state of the ChatClient. Also use CanChat.</summary>
         public ChatState State { get; private set; }
 
-        /// <summary> Disconnection cause. Check this inside <see cref="IChatClientListener.OnDisconnected"/>. </summary>
         public ChatDisconnectCause DisconnectedCause { get; private set; }
-        /// <summary>
-        /// Checks if this client is ready to send messages.
-        /// </summary>
+       
         public bool CanChat
         {
             get { return this.State == ChatState.ConnectedToFrontEnd && this.HasPeer; }
         }
-        /// <summary>
-        /// Checks if this client is ready to publish messages inside a public channel.
-        /// </summary>
-        /// <param name="channelName">The channel to do the check with.</param>
-        /// <returns>Whether or not this client is ready to publish messages inside the public channel with the specified channelName.</returns>
+        
         public bool CanChatInChannel(string channelName)
         {
             return this.CanChat && this.PublicChannels.ContainsKey(channelName) && !this.PublicChannelsUnsubscribing.Contains(channelName);
@@ -101,20 +60,14 @@ namespace Photon.Chat
             get { return this.chatPeer != null; }
         }
 
-        /// <summary>The version of your client. A new version also creates a new "virtual app" to separate players from older client versions.</summary>
         public string AppVersion { get; private set; }
 
-        /// <summary>The AppID as assigned from the Photon Cloud.</summary>
         public string AppId { get; private set; }
 
 
-        /// <summary>Settable only before you connect!</summary>
         public AuthenticationValues AuthValues { get; set; }
 
-        /// <summary>The unique ID of a user/person, stored in AuthValues.UserId. Set it before you connect.</summary>
-        /// <remarks>
-        /// This value wraps AuthValues.UserId.
-        /// It's not a nickname and we assume users with the same userID are the same person.</remarks>
+       
         public string UserId
         {
             get
@@ -131,36 +84,18 @@ namespace Photon.Chat
             }
         }
 
-        /// <summary>If greater than 0, new channels will limit the number of messages they cache locally.</summary>
-        /// <remarks>
-        /// This can be useful to limit the amount of memory used by chats.
-        /// You can set a MessageLimit per channel but this value gets applied to new ones.
-        ///
-        /// Note:
-        /// Changing this value, does not affect ChatChannels that are already in use!
-        /// </remarks>
+       
         public int MessageLimit;
 
-        /// <summary>Limits the number of messages from private channel histories.</summary>
-        /// <remarks>
-        /// This is applied to all private channels on reconnect, as there is no explicit re-joining private channels.<br/>
-        /// Default is -1, which gets available messages up to a maximum set by the server.<br/>
-        /// A value of 0 gets you zero messages.<br/>
-        /// The server's limit of messages may be lower. If so, the server's value will overrule this.<br/>
-        /// </remarks>
+        
         public int PrivateChatHistoryLength = -1;
 
-        /// <summary> Public channels this client is subscribed to. </summary>
         public readonly Dictionary<string, ChatChannel> PublicChannels;
-        /// <summary> Private channels in which this client has exchanged messages. </summary>
         public readonly Dictionary<string, ChatChannel> PrivateChannels;
 
-        // channels being in unsubscribing process
-        // items will be removed on successful unsubscription or subscription (the latter required after attempt to unsubscribe from not existing channel)
         private readonly HashSet<string> PublicChannelsUnsubscribing;
 
         private readonly IChatClientListener listener = null;
-        /// <summary> The Chat Peer used by this client. </summary>
         public ChatPeer chatPeer = null;
         private const string ChatAppName = "chat";
         private bool didAuthenticate;
@@ -171,19 +106,9 @@ namespace Photon.Chat
         private int msDeltaForServiceCalls = 50;
         private int msTimestampOfLastServiceCall;
 
-        /// <summary>Defines if a background thread will call SendOutgoingCommands, while your code calls Service to dispatch received messages.</summary>
-        /// <remarks>
-        /// The benefit of using a background thread to call SendOutgoingCommands is this:
-        ///
-        /// Even if your game logic is being paused, the background thread will keep the connection to the server up.
-        /// On a lower level, acknowledgements and pings will prevent a server-side timeout while (e.g.) Unity loads assets.
-        ///
-        /// Your game logic still has to call Service regularly, or else incoming messages are not dispatched.
-        /// As this typically triggers UI updates, it's easier to call Service from the main/UI thread.
-        /// </remarks>
+       
         public bool UseBackgroundWorkerForSending { get; set; }
 
-        /// <summary>Exposes the TransportProtocol of the used PhotonPeer. Settable while not connected.</summary>
         public ConnectionProtocol TransportProtocol
         {
             get { return this.chatPeer.TransportProtocol; }
