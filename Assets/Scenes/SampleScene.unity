@@ -9779,7 +9779,7 @@ PrefabInstance:
     - target: {fileID: 8231724738466275489, guid: b48178a9d56ed1f4ab29676f35def8e1, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 48a87a58b722346a5bc5bf799d253f7e, type: 2}
+      objectReference: {fileID: 2100000, guid: bc63da4e0019046cfac49f0de7c92a91, type: 2}
     - target: {fileID: 8231724738468216417, guid: b48178a9d56ed1f4ab29676f35def8e1, type: 3}
       propertyPath: m_Name
       value: Kids Section
@@ -11146,7 +11146,7 @@ PrefabInstance:
     - target: {fileID: 8231724738466275489, guid: b48178a9d56ed1f4ab29676f35def8e1, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: e9485aa384e4a49c19ed2335a04a8a35, type: 2}
+      objectReference: {fileID: 2100000, guid: 37b9587e81fe14f9e8a40c7c15dae044, type: 2}
     - target: {fileID: 8231724738468216417, guid: b48178a9d56ed1f4ab29676f35def8e1, type: 3}
       propertyPath: m_Name
       value: Men's Section
@@ -12220,7 +12220,7 @@ PrefabInstance:
     - target: {fileID: 8231724738466275489, guid: b48178a9d56ed1f4ab29676f35def8e1, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 54d4ab307ac4647259a507f6bdc697f9, type: 2}
+      objectReference: {fileID: 2100000, guid: 18bf176fe80c74310a7282d654301046, type: 2}
     - target: {fileID: 8231724738468216417, guid: b48178a9d56ed1f4ab29676f35def8e1, type: 3}
       propertyPath: m_Name
       value: women's section
